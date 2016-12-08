@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Goodbye Wittgenstein
-permalink: /art/goodbye-wittgenstein/
+permalink: /goodbye-wittgenstein/
 category: art
-image: wiggydreammap.jpg
+image: assets/images/wiggydreammap.jpg
 ---
 
-![](/images/wiggydreammap.jpg)
+![](/assets/images/wiggydreammap.jpg)
 
 # Goodbye Wittgenstein
 
