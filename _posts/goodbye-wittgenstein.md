@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Goodbye Wittgenstein
 permalink: /goodbye-wittgenstein/
 category: art
