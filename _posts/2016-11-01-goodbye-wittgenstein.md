@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Goodbye Wittgenstein
+description: A residency in Linz.
 permalink: /goodbye-wittgenstein/
-category: art
 image: assets/images/wiggydreammap.jpg
 ---
 
