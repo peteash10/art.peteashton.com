@@ -3,7 +3,7 @@ layout: page
 title: Goodbye Wittgenstein
 permalink: /goodbye-wittgenstein/
 category: art
-image: forty-jekyll-theme/assets/images/wiggydreammap.jpg
+image: assets/images/wiggydreammap.jpg
 ---
 
 ![](/forty-jekyll-theme/assets/images/wiggydreammap.jpg)
