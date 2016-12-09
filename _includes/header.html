@@ -22,6 +22,16 @@
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
+       {% for page in site.posts %}
+		    {% if post.layout == "home" %}
+		        <li><a href="{{ "" | absolute_url }}">{{ post.title }}</a></li>
+	    	{% endif %}
+		{% endfor %}
+		{% for page in site.posts %}
+		    {% if post.layout != "home" %}
+		        <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+		    {% endif %}
+		{% endfor %}
 	</ul>
 <!-- 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
