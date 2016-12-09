@@ -22,18 +22,21 @@ The presentation is about 25 minutes long with 10 minutes of intro, 10 minutes o
 *People and subjects mentioned.*
 
 **Introduction**  
-[Slit-scan Photography](http://en.wikipedia.org/wiki/Slit-scan_photography) – [Examples](http://www.flong.com/texts/lists/slit_scan/)  
-[ANS Synthesizer](http://en.wikipedia.org/wiki/ANS_synthesizer)  
-[Eduard Artemyev](http://en.wikipedia.org/wiki/Eduard_Artemyev), composer of Solaris soundtrack.  
-[Coil’s ANS album](http://en.wikipedia.org/wiki/ANS_(album)) – [Samples](http://www.brainwashed.com/common/htdocs/discog/coilans.php?site=coil08) – [Download](https://archive.org/details/CoilANS0DVDMenu)  
-[Spectral Songs of the Slitscanned Selfies](http://art-pete.com/blog/2014/06/04/spectral-songs-of-the-slitscanned-selfies/)  
-[Virtual ANS synth software](http://www.warmplace.ru/soft/ans/) (Mac / Win / Linux / iOS / Android)  
-[Arduino Camera Shield](http://www.arducam.com/)
+
+* [Slit-scan Photography](http://en.wikipedia.org/wiki/Slit-scan_photography) – [Examples](http://www.flong.com/texts/lists/slit_scan/)  
+* [ANS Synthesizer](http://en.wikipedia.org/wiki/ANS_synthesizer)  
+* [Eduard Artemyev](http://en.wikipedia.org/wiki/Eduard_Artemyev), composer of Solaris soundtrack.  
+* [Coil’s ANS album](http://en.wikipedia.org/wiki/ANS_(album)) – [Samples](http://www.brainwashed.com/common/htdocs/discog/coilans.php?site=coil08) – [Download](https://archive.org/details/CoilANS0DVDMenu)  
+* [Spectral Songs of the Slitscanned Selfies](http://art-pete.com/blog/2014/06/04/spectral-songs-of-the-slitscanned-selfies/)  
+* [Virtual ANS synth software](http://www.warmplace.ru/soft/ans/) (Mac / Win / Linux / iOS / Android)  
+* [Arduino Camera Shield](http://www.arducam.com/)
 
 **Demonstration**  
-[PhonoPaper app](http://www.warmplace.ru/soft/phonopaper/) (iOS / Android)
+
+* [PhonoPaper app](http://www.warmplace.ru/soft/phonopaper/) (iOS / Android)
 
 **Questions**  
-[Sarah Angliss](http://www.sarahangliss.com/)  
-[Steve Symons](http://owlproject.com/steve_symons), [Owl Project](http://owlproject.com/)  
-[Graham Dunning](http://grahamdunning.com/)
+
+* [Sarah Angliss](http://www.sarahangliss.com/)  
+* [Steve Symons](http://owlproject.com/steve_symons), [Owl Project](http://owlproject.com/)  
+* [Graham Dunning](http://grahamdunning.com/)
