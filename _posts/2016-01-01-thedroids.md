@@ -23,4 +23,4 @@ My work looks for the edge cases in our emerging algorithmic police state; searc
 
 [Here's a promo video](https://vimeo.com/148619063) which shows the edge as is stood in December 2016.
 
-On January 1st, when the exhibition opened, the first 50 or so videos were blocked but the remaining we passed. As of September all the videos are available to watch. It'll be interesting to see if the enforcement pickes up again around Christmas when the next Star Wars film is released. 
+On January 1st, when the exhibition opened, the first 50 or so videos were blocked but the remaining were passed. As of September all the videos are available to watch. It'll be interesting to see if the enforcement pickes up again around Christmas when the next Star Wars film is released. 
