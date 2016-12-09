@@ -2185,7 +2185,7 @@
 
 /* Image */
 
-img {width: 100%;}
+img {max-width: 100%;}
 
 	.image {
 		border: 0;
