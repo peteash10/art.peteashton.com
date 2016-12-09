@@ -7,7 +7,9 @@ permalink: about/
 
 I'm an artist based in Birmingham in the North West of Europe. My work centers on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
 
-[I've started to develop and archive my work on Github](https://github.com/peteash10/Artworks) where you can find documentation and, where relevant, source materials and code. 
+Alongside this formal portfolio site, [I record the process of my work on Github](https://github.com/peteash10/) where you can find documentation and, where relevant, source materials and code. 
+
+I've been a practicing artist since 2013 after four decades of slowly coming to the conclusion I might be an artist. 
 
 ## New work for 2017
 
