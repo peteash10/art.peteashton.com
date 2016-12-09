@@ -1,8 +1,8 @@
 # Site settings
 title: Pete Ashton's Art
-subtitle: Digital images are weird. Let's make art about them. 
+subtitle:  
 email: pete@peteashton.com
-description: Pete Ashton I’m an artist based in Birmingham in the North West of Europe. <br/>His work centers on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.<br/>This site archives key works from the last few years.
+description: Digital images are weird. I make art about them.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://peteash10.github.io" # the base hostname & protocol for your site
 
