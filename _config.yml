@@ -1,8 +1,8 @@
 # Site settings
-title: Pete Ashton's website
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Pete Ashton's Art
+subtitle: Digital images are weird. Let's make art about them. 
+email: pete@peteashton.com
+description: Pete Ashton I’m an artist based in Birmingham in the North West of Europe. <br/>His work centers on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.<br/>This site archives key works from the last few years.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://peteash10.github.io" # the base hostname & protocol for your site
 
@@ -12,15 +12,8 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 12
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url:
-linkedin_url: 
-pinterest_url:
-slack_url:
+github_url: https://github.com/peteash10
+instagram_url: https://www.instagram.com/peteashton/
 twitter_url: https://twitter.com/peteashton
 
 # Build settings
