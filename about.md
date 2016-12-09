@@ -2,7 +2,7 @@
 layout: page
 title: About Pete Ashton
 image: assets/images/portrait.jpg
-permalink: /about/
+permalink: about/
 ---
 
 I'm an artist based in Birmingham in the North West of Europe. My work centers on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
