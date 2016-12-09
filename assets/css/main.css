@@ -2709,7 +2709,7 @@ img {max-width: 100%;}
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 50%;
+			width: 60%;
 		}
 
 			.tiles article .image {
@@ -2749,7 +2749,7 @@ img {max-width: 100%;}
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.2;
+				opacity: 0.1;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2784,7 +2784,7 @@ img {max-width: 100%;}
 			}
 
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
-				width: 50%;
+				width: 40%;
 			}
 
 			.tiles article:nth-child(6n - 5):before {
