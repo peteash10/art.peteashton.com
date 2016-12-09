@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Goodbye Wittgenstein
-description: A residency in Linz.
+description: A residency in Linz, Austria.
 permalink: /goodbye-wittgenstein/
 image: assets/images/wiggydreammap.jpg
 ---
 
-![](/forty-jekyll-theme/assets/images/wiggydreammap.jpg)
-
-# Goodbye Wittgenstein
 
 Pete Ashton  
 November 2016 

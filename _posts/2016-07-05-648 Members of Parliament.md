@@ -2,6 +2,7 @@
 layout: post
 title: 648 Members of Parliament
 description: All the MPs all at once.
+permalink: /648-MPs/
 image: assets/images/648-mps-all-merged.jpg
 ---
 
