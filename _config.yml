@@ -4,7 +4,7 @@ subtitle:
 email: pete@peteashton.com
 phone: +44 7775 690106
 description: Digital images are weird. I make art about them.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://art.peteashton.com" # the base hostname & protocol for your site
 
 
