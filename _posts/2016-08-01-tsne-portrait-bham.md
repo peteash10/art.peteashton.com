@@ -10,8 +10,6 @@ permalink: portrait-bham
 
 The work uses artificial intelligence algorithms to interrogate the visual identity of a modern post-industrial suburban city and builds on the psychographical work [Cross City Walks](http://xcw.org.uk) developed by the artist in collaboration with Andy Howlett. As a whole it challenges the traditional notion of a city landscape and employs the otherwise mundane features to collectively represent the city from street level. The algorithmic sorting creates pockets of comparison, echoing the Typologies of [Bernd and Hilla Becher](http://www.tate.org.uk/art/artists/bernd-becher-and-hilla-becher-718), revealing the subtle differences across similar features, while glitches and edge-cases create amusing juxtapositions. 
 
-[![](https://c5.staticflickr.com/9/8355/29516062116_f6ef691ed8_b.jpg)](http://peteashton.com/tsne/xcw2/)
-
 The work can be displayed as a giant print or as a projector or screen-based “map” interface. Each square should be at least 1cm.
 
 An online version of the work can be viewed at 
