@@ -5,7 +5,7 @@ image: assets/images/portrait.jpg
 permalink: about/
 ---
 
-I'm an artist based in Birmingham in the North West of Europe. My work centers on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
+I'm an artist based in Birmingham in the North West of Europe. My work centres on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
 
 Alongside this formal portfolio site, [I record the process of my work on Github](https://github.com/peteash10/) where you can find documentation and, where relevant, source materials and code. 
 
