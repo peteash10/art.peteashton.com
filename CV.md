@@ -6,6 +6,8 @@ permalink: cv/
 
 Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashton.com  Email: pete@peteashton.com  Phone: +44 7775 690 106  
 
+*[Download CV in Word format](https://art.peteashton.com/assets/docs/peteashton_artists_cv_dec2016.docx)*
+
 ## 2016
 
 **[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including "Live R&D" group show.
@@ -47,3 +49,4 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashto
 ## 2011
 
 **[Dead Space](https://www.flickr.com/photos/peteashton/albums/72157626551649992)** - Installation in Birmingham Central Library window curated by Clare Farrell of [Werk](http://www.werk.org.uk).	
+
