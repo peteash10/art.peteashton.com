@@ -12,8 +12,8 @@ The work uses artificial intelligence algorithms to interrogate the visual ident
 
 The work can be displayed as a giant print or as a projector or screen-based “map” interface. Each square should be at least 1cm.
 
-An online version of the work can be viewed at 
-[http://peteashton.com/tsne/xcw2/](http://peteashton.com/tsne/xcw2/)
+~~An online version of the work can be viewed at 
+[http://peteashton.com/tsne/xcw2/](http://peteashton.com/tsne/xcw2/)~~ (Currently offline - back soon!)
 
 **Selected close-ups of the work follow:**
 
