@@ -6,6 +6,7 @@ permalink: /the-droids/
 image: assets/images/thedroids.jpg
 ---
 
+![](/assets/images/thedroids.jpg)
 
 **The Droids** was comissioned by [Fermynwoods](http://www.fermynwoods.co.uk/) as part of their [Open Online Six](http://www.fermynwoods.co.uk/current-programme/open-online-six/) for 2016, an online-only exhibition. The subject is "Too Long For iTunes: Challenging the limits of online presentation and exploring offline digital culture" referencing an intriguing situation in digital distribuion: 
 

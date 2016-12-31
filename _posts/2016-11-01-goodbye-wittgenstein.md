@@ -6,6 +6,7 @@ permalink: /goodbye-wittgenstein/
 image: assets/images/wiggydreammap.jpg
 ---
 
+![](/assets/images/wiggydreammap.jpg)
 
 Pete Ashton  
 November 2016 

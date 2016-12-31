@@ -6,6 +6,7 @@ permalink: /648-MPs/
 image: assets/images/648-mps-all-merged.jpg
 ---
 
+![](/assets/images/648-mps-all-merged.jpg)
 
 _an [Art](http://peteashton.com/art) by [Pete Ashton](http://peteashton.com)_
 

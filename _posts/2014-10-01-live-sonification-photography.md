@@ -6,6 +6,8 @@ permalink: /live-sonification-photography/
 image: assets/images/If_Wet_2014-Oct-30.jpg
 ---
 
+![](/assets/images/If_Wet_2014-Oct-30.jpg)
+
 **Live Sonification of Photography** was a performance / lecture at sound-art salon [If Wet](http://www.ifwet.org.uk/) in of a new system for turning photographs into sound as a performance piece incorporating portrature, image manipulation and the ANS synth.
 
 <iframe src="https://player.vimeo.com/video/110096716?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -6,6 +6,8 @@ image: assets/images/Instabeck-1024x896.png
 permalink: instabeck
 ---
 
+![](/assets/images/Instabeck-1024x896.png)
+
 # InstaBeck 
 
 *by [Pete Ashton](http://peteashton.com)*

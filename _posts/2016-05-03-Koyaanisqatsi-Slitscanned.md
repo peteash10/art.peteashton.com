@@ -6,6 +6,8 @@ permalink: /koyaanisqatsi-slitscanned/
 image: assets/images/koyaanisqatsi.jpg
 ---
 
+![](/assets/images/koyaanisqatsi.jpg)
+
 Slitscanning is a photographic technique that was originally achieved using a mechanical attachment to a film camera. As images are now pixels which can be manipulated using maths, the potential of slit-scanning has grown. 
 
 I use slit-scanning to attempt to represent sequences of moments all at once by taking a core sample of pixels from each one and stacking them together. Doing this across a movie file, such as the iconic Koyaanisqatsi, starting at the far left and moving to the right, alows us to experience the film in a new way. 
