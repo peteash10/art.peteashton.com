@@ -11,6 +11,8 @@ Alongside this formal portfolio site, [I record the process of my work on Github
 
 I've been a practicing artist since 2013 after four decades of slowly coming to the conclusion I might be an artist. 
 
+![](/assets/images/self-portrait-2.jpg)
+
 ## New work for 2017
 
 Throughout 2017 I will be producing a new body of work culminating in a solo show in November. [The work is being developed and documented here.](https://github.com/peteash10/2017-body-of-work) 
