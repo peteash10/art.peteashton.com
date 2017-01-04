@@ -7,6 +7,8 @@ permalink: about/
 
 I'm an artist based in Birmingham in the North West of Europe. My work centres on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
 
+After a bit of a break I've started blogging again at [blog.peteashton.com](http://blog.peteashton.com) where I occasionally document my art process. 
+
 Alongside this formal portfolio site, [I record the process of my work on Github](https://github.com/peteash10/) where you can find documentation and, where relevant, source materials and code. 
 
 I've been a practicing artist since 2013 after four decades of slowly coming to the conclusion I might be an artist. 
