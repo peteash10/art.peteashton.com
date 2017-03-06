@@ -16,6 +16,11 @@ The work can be displayed as a giant print or as a projector or screen-based “
 
 An online version of the work [can be viewed here](https://peteash10.github.io/tsne-xcw2/) 
 
+An interactive installation of **A Portrait of Birmingam** was exhibited as part of the [Black Hole Club 2017 launch at Vivid Projects](http://www.vividprojects.org.uk/programme/black-hole-club-launch/), Friday 3rd March 2017. 
+
+![](/assets/images/peteashton_2017-Mar-03.jpg)
+
+
 **Selected close-ups of the work follow:**
 
 ![](https://raw.githubusercontent.com/peteash10/forty-jekyll-theme/gh-pages/assets/images/xcwtsne-1.jpg)
