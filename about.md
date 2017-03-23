@@ -5,19 +5,17 @@ image: assets/images/pete_and_shadow.jpg
 permalink: about/
 ---
 
+My name is [Pete Ashton](http://peteashton.com)
+
 I'm an artist based in Birmingham in the North West of Europe. My work centres on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
 
-After a bit of a break I've started blogging again at [blog.peteashton.com](http://blog.peteashton.com) where I occasionally document my art process. 
+Throughout 2017 I will be producing [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/), a new body of work culminating in a solo show in November.
 
-Alongside this formal portfolio site, [I record the process of my work on Github](https://github.com/peteash10/) where you can find documentation and, where relevant, source materials and code. 
+I occasionally [blog](http://blog.peteashton.com). 
 
 I've been a practicing artist since 2013 after four decades of slowly coming to the conclusion I might be an artist. 
 
 ![](/assets/images/self-portrait-2.jpg)
-
-## New work for 2017
-
-Throughout 2017 I will be producing a new body of work culminating in a solo show in November.
 
 ## Fellowships, Residencies and Scholarships
 
@@ -27,4 +25,5 @@ Throughout 2017 I will be producing a new body of work culminating in a solo sho
 
 [Goodbye Wittgenstein](http://peteashton.com/art/goodbye_wittgenstein/) (Residency, Linz, November 2016)
 
+![](/assets/images/portrait.jpg)
 
