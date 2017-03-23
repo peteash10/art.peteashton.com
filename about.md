@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pete Ashton
-image: assets/images/portrait.jpg
+image: assets/images/pete_and_shadow.jpg
 permalink: about/
 ---
 
