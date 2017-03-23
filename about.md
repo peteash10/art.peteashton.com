@@ -5,7 +5,7 @@ image: assets/images/pete_and_shadow.jpg
 permalink: about/
 ---
 
-My name is [Pete Ashton](http://peteashton.com)
+My name is [Pete Ashton](http://peteashton.com).
 
 I'm an artist based in Birmingham in the North West of Europe. My work centres on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
 
