@@ -57,7 +57,6 @@ The system will generate instructions to be disseminated via social media, such 
 
 The work will culminate in a publication titled *Instructions for Humans* containing the instructions along with guidance on using them to inspire creative practice, echoing Brian Eno's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies).
 
-
 ## Why Machine Learning?
 
 Machine Learning systems, commonly called "algorithms" and "Artificial Intelligence", are complex statistical programmes which use vast quantities of data to predict a likely outcome. A simple example is Predictive Text or Autocorrect which notices the phrases you commonly type into your phone and suggests them to you. A more controversial case is predictive policing which uses historical crime data to suggest where police resources would best be deployed. In all cases, the algorithm is "trained" on a corpus of data and all its results are constrained by the quantity and quality of this information. 
