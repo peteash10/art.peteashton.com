@@ -12,6 +12,8 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashto
 
 **[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - New body of work developed through the year for exhibition at Birmingham Open Media in November 2017. 
 
+**[Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
+
 ## 2016
 
 **[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including "Live R&D" group show.
