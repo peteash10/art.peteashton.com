@@ -4,7 +4,7 @@ title: Show and Tell
 permalink: showandtell/
 ---
 
-![](assets/images/showandtelllowres.jpg)
+![](/assets/images/showandtelllowres.jpg)
 
 **Show and Tell is a monthly artists meetup I organise at the [Artefact](http://artefactstirchley.co.uk) cafe (prev P Cafe) in Stirchly, Birmingham.**
 
