@@ -22,6 +22,8 @@ and so on...
 
 ## So what is Show and Tell? 
 
+![](/assets/images/SaTJan-3.jpg)
+
 **Making art is weird.** You have total freedom to do anything you like, but that freedom can be paralysing, especially if you’re making work that’s completely original. How do you know if you’re on the right track? Are you wasting your time? Should you just give up and get a proper job? 
 
 Show and Tell is a monthly meet-up for artists and anyone working on a personal or non-commercial creative project to talk about their work in progress and get valuable feedback.
