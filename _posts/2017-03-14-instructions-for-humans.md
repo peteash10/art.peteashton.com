@@ -11,16 +11,16 @@ image: assets/images/ifh_bodyscaner.jpg
 
 **Instructions for Humans** is my next major piece of work centred around a solo exhibition at [Birmingham Open Media](http://bom.org.uk) in November 2017. 
 
-Subject to funding applications, the work will be developed from May to September and be available for touring from 2018. 
+Funded by Arts Council England, the work will be developed from May to September and be available for touring from 2018. 
 
-Research and development materials and code are archived at [this Github repository](https://peteash10.github.io/instructions-for-humans/). 
+Research and development materials and code will be archived at [this Github repository](https://peteash10.github.io/instructions-for-humans/). 
 
 A blog, [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.com), is collecting examples of humans performing for the benefit of machines. Further examples are welcome. 
 
 
 # Project Summary
 
-*Adapted from the exhibition proposal and correct as of Feb 2017. Changes will occur as development proceeds.*
+*Adapted from the exhibition proposal and correct as of April 2017. Changes will occur as development proceeds.*
 
 **Instructions for Humans** aims to explore how machine gesture informs the human creative process and in turn how human gesture might inform mechanical representations. By employing recent developments in artificial intelligence and machine learning I will be asking what it means for a computer to "see", how society can be influenced by opinions derived from the perceptions of machines, and how interrogating mechanical systems can help us to question the biases of our own sense-based cognition.
 
