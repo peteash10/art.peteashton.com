@@ -11,7 +11,7 @@ image: assets/images/ifh_bodyscaner.jpg
 
 **Instructions for Humans** is my next major piece of work centred around a solo exhibition at [Birmingham Open Media](http://bom.org.uk) in November 2017. 
 
-Funded by Arts Council England, the work will be developed from May to September and be available for touring from 2018. 
+Funded by [Arts Council England](http://artscouncil.org.uk/), the work will be developed from May to September and be available for touring from 2018. 
 
 Research and development materials and code will be archived at [this Github repository](https://peteash10.github.io/instructions-for-humans/). 
 
