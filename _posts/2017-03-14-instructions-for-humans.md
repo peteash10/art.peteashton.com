@@ -19,8 +19,8 @@ A blog, [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.
 
 Development blog posts:
 
-- [A few of the big questions](http://blog.peteashton.com/art/2017/05/04/the-big-questions/) (April)
-- [Bias, Brains, Magic, and Black Boxes](http://blog.peteashton.com/art/2017/04/14/confirmation_bias_etc/)
+- [A few of the big questions](http://blog.peteashton.com/art/2017/05/04/the-big-questions/) (May 5)
+- [Bias, Brains, Magic, and Black Boxes](http://blog.peteashton.com/art/2017/04/14/confirmation_bias_etc/) (April 14)
 
 
 # Project Summary
