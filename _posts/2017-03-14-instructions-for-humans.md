@@ -17,6 +17,11 @@ Research and development materials and code will be archived at [this Github rep
 
 A blog, [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.com), is collecting examples of humans performing for the benefit of machines. Further examples are welcome. 
 
+Development blog posts:
+
+- [A few of the big questions](http://blog.peteashton.com/art/2017/05/04/the-big-questions/) (April)
+- [Bias, Brains, Magic, and Black Boxes](http://blog.peteashton.com/art/2017/04/14/confirmation_bias_etc/)
+
 
 # Project Summary
 
