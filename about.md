@@ -25,5 +25,7 @@ I've been a practicing artist since 2013 after four decades of slowly coming to 
 
 [Goodbye Wittgenstein](http://peteashton.com/art/goodbye_wittgenstein/) (Residency, Linz, November 2016)
 
+[Aston Lab for Intelligent Collectives Engineering](https://alice.aston.ac.uk) (Visiting Fellow, 2017)
+
 ![](/assets/images/portrait.jpg)
 
