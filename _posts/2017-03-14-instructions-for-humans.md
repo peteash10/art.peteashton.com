@@ -9,7 +9,7 @@ image: assets/images/ifh_bodyscaner.jpg
 ![](/assets/images/ifh_bodyscaner.jpg)
 
 
-**Instructions for Humans** is my next major piece of work centred around a solo exhibition at [Birmingham Open Media](http://bom.org.uk) in November 2017. 
+**Instructions for Humans** is my next major piece of work centred around an exhibition at [Birmingham Open Media](http://bom.org.uk) from October 2017 to January 2018. 
 
 Funded by [Arts Council England](http://artscouncil.org.uk/), the work will be developed from May to September and be available for touring from 2018. 
 

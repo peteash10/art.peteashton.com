@@ -6,13 +6,15 @@ permalink: cv/
 
 Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashton.com  Email: pete@peteashton.com  Phone: +44 7775 690 106  
 
-*[Download CV in Word format](https://art.peteashton.com/assets/docs/peteashton_artists_cv_mar2017.docx)*
+*[Download CV in Word format](https://art.peteashton.com/assets/docs/peteashton_artists_cv_may2017.docx)*
 
 ## 2017
 
 **[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - New body of work developed through the year for exhibition at Birmingham Open Media in November 2017. 
 
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
+
+**[Aston Lab for Intelligent Collectives Engineering](https://alice.aston.ac.uk)** - Visiting Fellowship at ALICE, Aston University, to research and develop Instructions for Humans.
 
 ## 2016
 
