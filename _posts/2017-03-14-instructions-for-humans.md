@@ -19,6 +19,7 @@ A blog, [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.
 
 Development blog posts:
 
+- [Starting](http://blog.peteashton.com/art/2017/06/12/Starting/) (June 12th)
 - [Echo Edit - Inspiration, Objectives and Documentation](http://blog.peteashton.com/art/2017/06/01/Echo-Edit/) (June 1st)
 - [A few of the big questions](http://blog.peteashton.com/art/2017/05/04/the-big-questions/) (May 5th)
 - [Bias, Brains, Magic, and Black Boxes](http://blog.peteashton.com/art/2017/04/14/confirmation_bias_etc/) (April 14th)
