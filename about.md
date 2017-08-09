@@ -7,13 +7,13 @@ permalink: about/
 
 My name is [Pete Ashton](http://peteashton.com).
 
-I'm an artist based in Birmingham in the North West of Europe. My work centres on cameras as post-photographic data-capture devices with an interest in realising their output through mechanical/human gesture.
+I'm a multidisciplinary artist working in Birmingham, a city in the North West of Europe. My work uses media technologies to explore how we perceive and understand the world around us. Completely self-taught, I use art to look at traditionally academic subjects in new ways, seeing it as a form of applied philosophical enquiry. 
 
-Throughout 2017 I will be producing [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/), a new body of work culminating in a solo show in November.
+After a prolonged confused existence I realised I was an artist in my 40s and have centred my practice on cameras as post-photographic data-capture devices. Like [most data-artists](https://twitter.com/holyurl/status/894326191724867584) I am concerned with identity, privacy and corporate surveillance under late-capitalism and attempt to make work about this that doesn't simply involve screaming helplessly into the void. 
+
+Throughout 2017 I will be producing [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/), a new body of work culminating exhibiting from September.
 
 I occasionally [blog](http://blog.peteashton.com). 
-
-I've been a practicing artist since 2013 after four decades of slowly coming to the conclusion I might be an artist. 
 
 ![](/assets/images/self-portrait-2.jpg)
 
