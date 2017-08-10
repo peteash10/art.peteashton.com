@@ -6,19 +6,12 @@ permalink: showandtell/
 
 ![](/assets/images/showandtelllowres.jpg)
 
-**Show and Tell is a monthly artists meetup I organise at the [Artefact](http://artefactstirchley.co.uk) cafe (prev P Cafe) in Stirchly, Birmingham.**
+**Show and Tell is officially on hold while [my exhibition](http://www.bom.org.uk/event/instructions-for-humans/) runs at BOM but that doesn't stop you from using the second Thursday to meet up if you want to.**
+
+Show and Tell is a monthly artists meetup I organise at the [Artefact](http://artefactstirchley.co.uk) cafe (prev P Cafe) in Stirchly, Birmingham.
 
 It takes place on the second Thursday of the month at 3pm. It is very informal and all are welcome. 
 
-**The next dates are:**
-
-Thurs 13th April  
-Thurs 11th May  
-Thurs 8th June  
-Thurs 13th July  
-Thurs 10th August
-
-and so on...
 
 ## So what is Show and Tell? 
 
