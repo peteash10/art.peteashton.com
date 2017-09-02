@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instructions for Humans
-description: A Cargo Cult for Artificial Intelligence - a new work exploring human interactions with machine learning.
+description: A Cargo Cult for Artificial Intelligence - a new work exploring human interactions with machines.
 permalink: /instructions-for-humans/
 image: assets/images/ifh_bodyscaner.jpg
 ---
@@ -34,14 +34,14 @@ Instructions for Humans will comprise digital, sculptural, and performance artwo
 
 These instructions, which may or may not make sense, are generated from an [artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) trained on the documents and texts that define and control the city of Birmingham, from dry government policy documents to sensationalist news feeds. 
 
-**The Instruction Station** (working title) is a workspace where Ashton will be resident throughout the exhibition developing new artworks daily, often in collaboration with visitors and other artists. These works will attempt to make sense of our relationship with opaque algorithmic systems, using the tools our ancestors employed to talk to their gods to ask what would a [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) for artificial intelligence look like? 
+**The Instruction Station** is a workspace where Ashton will be resident throughout the exhibition developing new artworks daily, often in collaboration with visitors and other artists. These works will attempt to make sense of our relationship with opaque algorithmic systems, using the tools our ancestors employed to talk to their gods to ask what would a [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) for artificial intelligence look like? 
 
 ## Events
 
 A significant outcome of Instructions for Humans will be two new performance works developed with artists [Emily Warner](http://emily-warner.com) and [Aleks Wojtulewicz](http://hfwas.co.uk/?page_id=27) to premiere in November.
 
-- Emily will attempt to materialise the data streams through movement and gesture, building a feedback loop between her body and the system.
-- Aleks will have his muscles connected to electrodes controlled by the artificial intelligence system turning him into a puppet of the machine.
+- Emily will attempt to materialise data streams through movement and gesture, building a feedback loop between her body and the system.
+- Aleks will have his muscles connected to electrodes controlled by a computer system, turning him into a puppet of the machine.
 
 A programme of evening and weekend workshops and excursions exploring the digital and physical systems of the city will take place throughout November and December. Covering surveillance, data security, city planning and more, these "data survival" events will explore work from artists, academics, activists and privacy campaigners and involve experts in these fields. 
 
@@ -53,7 +53,6 @@ Work produced in the gallery will be documented and archived on the website [ins
 
 This work is the culmination of three years' research by Pete Ashton. Lists of relevant books, articles, talks and artworks will be made available on the website.
 
-Instructions from The Black Box will be collated in a publication along with guidance on using them to inspire creative practice.
 
 ## Why Machine Learning?
 
