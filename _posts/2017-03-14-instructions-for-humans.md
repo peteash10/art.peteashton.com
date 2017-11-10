@@ -12,7 +12,7 @@ image: http://instructionsforhumans.com/images/bg.png
 
 # Instructions for Humans - A Cargo Cult for Artificial Intelligence
 
-Three months of new work by [Pete Ashton](http://art.peteashton.com/) exploring human interactions with complex systems, centred around and lending it's name to a wider Instructions for Humans exhibition exploring Internet art in an age of mass surveillance at [BOM (Birmingham Open Media)](http://bom.org.uk) from 13 September to 16 December 2017. 
+Three months of new work production by [Pete Ashton](http://art.peteashton.com/) exploring human interactions with complex systems, centred around and lending it's name to a wider Instructions for Humans exhibition exploring Internet art in an age of mass surveillance at [BOM (Birmingham Open Media)](http://bom.org.uk) from 13 September to 16 December 2017. 
 
 The phenomena of [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) was observed on South Pacific islands after WWII as islanders used ritual to try and make sense of the advanced military technology that had suddenly entered their lives. Instructions for Humans asks: what might a cargo cult for artificial intelligence look like? 
 
