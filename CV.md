@@ -6,19 +6,38 @@ permalink: cv/
 
 Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashton.com  Email: pete@peteashton.com  Phone: +44 7775 690 106  
 
-*[Download CV in Word format](http://art.peteashton.com/assets/docs/peteashton_artists_cv_may2017.docx)*
+*[Download CV in Word format](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_jan.docx)*
+
+Major artworks plus recent practitioner, speaker and producer work.
 
 ## 2017
 
-**[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - New body of work developed through the year for exhibition at Birmingham Open Media in November 2017. 
+**[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - Major three month exhibition of new body of work at Birmingham Open Media funded by Arts Council England. Full report forthcoming. 
 
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
 
-**[Aston Lab for Intelligent Collectives Engineering](https://alice.aston.ac.uk)** - Visiting Fellowship at ALICE, Aston University, to research and develop Instructions for Humans.
+**[Engine Travel Bursary](http://newartwestmidlands.co.uk/programme/engine/)** - Awarded by New Art West Midlands. [Report](http://newartwestmidlands.co.uk/editorial/pete-ashton-on-ars-electronica-linz/).
+
+### As Speaker
+
+**[Human Interfaces Conference](http://aphe.ac.uk/humaninterfaces/)** - Invited speaker at Association for Photography in Higher Education Summer Conference.
+
+**[ASTONish](https://www.astonishleadership.com)** - Invited speaker at creative leadership workshop.
+
+
+### As Practitioner
+
+**[Developed in Birmingham](https://www.developedinbirmingham.com)** - Series of events featuring Camera Obscura builds and a Speculative Cameras workshop. 
+
+**[BOM Art and Tech Social](http://www.bom.org.uk/event/artandtech-pete-ashton/)** - Experimenrtal Capture workshop exploring the edges of photography.
+
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
+
+**[Digitalis Milton Keynes](http://digitalismk.org)** - Sonification workshop at Milton Keynes library.
 
 ## 2016
 
-**[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including "Live R&D" group show.
+**[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including group show and involvement in BOM's educational outreach work. 
 
 **[Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/)** - residency and group show, Linz, Austria
 
@@ -27,14 +46,32 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashto
 **[Experimental Capture Workshop](http://golancourses.net/capture2016/)** - scholarship to study with Golan Levin at [Anderson Ranch](https://www.andersonranch.org), Colorado, USA. 
 **[The Droids](http://art.peteashton.com/the-droids/)** - part of [Fermynwood’s Open Online Six: Too Long For iTunes](http://www.fermynwoods.co.uk/current-programme/open-online-six/).
 
-**[Birmingham Camera Obscura R&D Programme](http://bhamobscura.com/artworks/)** - Commissioned and managed, with Jenny Duffin, four artists to create new works using the Birmingham Camera Obscura.
+### As Speaker
+
+**[Random String](http://randomstring.co)** - Invited speaker at arts and technology conference.
+
+**[The Mediated Self](http://readinglists.warwick.ac.uk/modules/th982.html)** - Invited speaker for Warwick University's School of Theatre, Performance and Cultural Policy Studies.
+
+### As Practitioner
+
+**[Trailblazers](http://www.stanscafe.co.uk/trailblazers.html)** - arts practitioner on youth civics project run by [Stan's Cafe Theatre Company](http://www.stanscafe.co.uk).
+
+**[Art in Crisis](http://www.bom.org.uk/event/art-in-crisis/)** - Workshop and photography walks with homeless people resulting in exhibtion of their work at Birmingham Open Media. 
+
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
+
+[Gallery 37](http://digitalbirmingham.co.uk/blog/2016/07/15/birmingham-youth-arts-programme-to-provide-free-training-in-coding/) - Photography mentoring for Young People Not in Education, Employment or Training. 
+
+**[SOAK](https://artsforumsellyoak.wordpress.com/2016/04/21/art-soak-12-15-may-2016/)** - Guided Photography Walk along river for suburban arts festival.
+
+### As Producer
+
+**[Birmingham Camera Obscura R&D Programme](http://bhamobscura.com/artworks/)** - Commissioned and produced, with Jenny Duffin, four artists to create new works using the Birmingham Camera Obscura.
 
 ## 2015
 
-**[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including "Live R&D" group show.
+**[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including group show and involvement in BOM's educational outreach work. 
 **[Instabeck](http://art.peteashton.com/instabeck)** - part of [The JHB Archive](http://www.jogane.co.uk/projects/286/lost-sculpture-the-jhb-archive/) group show curated by Jo Gane.
-
-**[Trailblazers](http://www.stanscafe.co.uk/trailblazers.html)** - arts practitioner on youth civics project run by [Stan's Cafe Theatre](http://www.stanscafe.co.uk) co.
 
 **[Cross City Walks at Flatpack](http://art.peteashton.com/xcw-flatpack/)** - interactive installation for [Flatpack Film Festival](http://flatpackfestival.org.uk).## 2014
 **[Ikon Traces Walking Tour](http://art.peteashton.com/ikon-traces/)** - commission from the [Ikon gallery](https://ikon-gallery.org) and the [Still Walking](http://www.stillwalking.org) festival.
