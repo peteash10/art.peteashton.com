@@ -60,7 +60,7 @@ Major artworks plus recent practitioner, speaker and producer work.
 
 **[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
 
-[Gallery 37](http://digitalbirmingham.co.uk/blog/2016/07/15/birmingham-youth-arts-programme-to-provide-free-training-in-coding/) - Photography mentoring for Young People Not in Education, Employment or Training. 
+**[Gallery 37](http://digitalbirmingham.co.uk/blog/2016/07/15/birmingham-youth-arts-programme-to-provide-free-training-in-coding/)** - Photography mentoring for young people not in education, employment or training. 
 
 **[SOAK](https://artsforumsellyoak.wordpress.com/2016/04/21/art-soak-12-15-may-2016/)** - Guided Photography Walk along river for suburban arts festival.
 
