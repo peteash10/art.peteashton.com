@@ -16,6 +16,8 @@ Major artworks plus recent practitioner, speaker and producer work.
 
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
 
+**[Spectrographic Manifestos]()**
+
 **[Engine Travel Bursary](http://newartwestmidlands.co.uk/programme/engine/)** - Awarded by New Art West Midlands. [Report](http://newartwestmidlands.co.uk/editorial/pete-ashton-on-ars-electronica-linz/).
 
 ### As Speaker

@@ -3,10 +3,10 @@ layout: post
 title: Spectrographic Manifestoes
 description: A Cargo Cult for Artificial Intelligence - new work exploring human interactions with machines.
 permalink: /spectrographic_manifestoes/
-image: http://instructionsforhumans.com/images/spectrographicmanifestoes.jpg
+image: http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg
 ---
 
-![](http://instructionsforhumans.com/images/spectrographicmanifestoes.jpg)
+![](http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg)
 
 
 
