@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectrographic Manifestoes
-description: A Cargo Cult for Artificial Intelligence - new work exploring human interactions with machines.
+description: Election speeches transformed from audio to graphical and back again.
 permalink: /spectrographic_manifestoes/
 image: http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg
 ---
