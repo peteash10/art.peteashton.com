@@ -84,15 +84,6 @@ Major artworks plus recent practitioner, speaker and producer work.
 
 **[Typologies of Hypernetworked Vernacular Self-Portraiture](https://vimeo.com/90148397)** - short film, screened at [Flatpack Film Festival](http://flatpackfestival.org.uk).
 
-## 2013
-
-**[Bring Your Own Beamer Birmingham](http://byobbirmingham.tumblr.com)** - group show at [Vivid Projects](http://www.vividprojects.org.uk) assistant-curated with [Antonio Roberts](http://www.hellocatfood.com).
-
-
-## 2012
-
-**[Bring Your Own Beamer Birmingham](http://byobbirmingham.tumblr.com)** - group show at [Vivid Projects](http://www.vividprojects.org.uk) assistant-curated with [Antonio Roberts](http://www.hellocatfood.com).
-
 ## 2011
 
 **[Dead Space](https://www.flickr.com/photos/peteashton/albums/72157626551649992)** - Installation in Birmingham Central Library window curated by Clare Farrell of [Werk](http://www.werk.org.uk).	
