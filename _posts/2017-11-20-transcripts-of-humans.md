@@ -13,10 +13,11 @@ The artist presents the trascripts on the walls of the gallery and has conversat
 
 [The transcripts are archived online](http://instructionsforhumans.com/transcripts/) and are currenty being packaged as a book to be available later in 2018. 
 
-![](http://art.peteashton.com/assets/images/ifh-audo-surv-notice.jpg)
 
 ![](http://instructionsforhumans.com/images/transcripts4.jpg)
 
 ![](http://instructionsforhumans.com/images/transcripts1.jpg)
 
 ![](http://instructionsforhumans.com/images/transcripts2.jpg)
+
+![](http://art.peteashton.com/assets/images/ifh-audo-surv-notice.jpg)
