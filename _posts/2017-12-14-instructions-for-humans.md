@@ -10,7 +10,7 @@ image: http://instructionsforhumans.com/images/puerto-rico-celltower.jpg
 
 
 
-# Instructions for Humans - A Cargo Cult for Artificial Intelligence
+## A Cargo Cult for Artificial Intelligence
 
 Three months of new work production by [Pete Ashton](http://art.peteashton.com/) exploring human interactions with complex systems, centred around and lending it's name to a wider Instructions for Humans exhibition exploring Internet art in an age of mass surveillance at [BOM (Birmingham Open Media)](http://bom.org.uk) from 13 September to 16 December 2017. 
 

@@ -5,7 +5,6 @@ description: Three months talking to visitors in a gallery, transcribed for the 
 permalink: /transcripts-of-humans/
 image: http://instructionsforhumans.com/images/transcripts4.jpg
 ---
-# Transcripts of Humans
 
 The artist is based in the gallery for three months. visitos are invited to talk to the artist about the exhibition. These conversations with the artist are recorded because the artist has a terrible memory and would like to know what was talked about. The recordings are summarised by the transcriber, [Karen Cameron](https://twitter.com/KCanard). The transcriber was not in the gallery and only has the audio from one microphone to go on. Errors and assumptions are made. These are not corrected. 
 
