@@ -10,6 +10,14 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashto
 
 Major artworks plus recent practitioner, speaker and producer work.
 
+## 2018
+
+**[Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
+
+### As Practitioner
+
+**[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools to be exhibited during Autumn. In progress.  
+
 ## 2017
 
 **[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - Major three month exhibition of new body of work at Birmingham Open Media funded by Arts Council England. Full report forthcoming. 
