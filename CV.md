@@ -6,9 +6,9 @@ permalink: cv/
 
 Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashton.com  Email: pete@peteashton.com  Phone: +44 7775 690 106  
 
-*[Download CV in Word format](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_apr.docx)*
+*Download CV as [Word doc](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_apr.docx) or as [PDF](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_apr.pdf).*
 
-Major artworks plus recent practitioner, speaker and producer work.
+**Major artworks plus recent practitioner, speaker and producer work.**
 
 ## 2018
 
