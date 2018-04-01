@@ -14,6 +14,10 @@ Major artworks plus recent practitioner, speaker and producer work.
 
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
 
+
+**[Blow-Up 2018](http://art.peteashton.com/blow-up-2018/) - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
+
+
 ### As Practitioner
 
 **[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools to be exhibited during Autumn. In progress.  
