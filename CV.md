@@ -4,9 +4,9 @@ title: Pete Ashton's Artist CV
 permalink: cv/
 ---
 
-Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashton.com  Email: pete@peteashton.com  Phone: +44 7775 690 106  
+Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteashton.com](http://art.peteashton.com)  Email: pete@peteashton.com  Phone: +44 7775 690 106  
 
-*Download CV as [Word doc](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_apr.docx) or as [PDF](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_apr.pdf).*
+*Download CV as [PDF](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_may.pdf).*
 
 **Major artworks plus recent practitioner, speaker and producer work.**
 
@@ -14,13 +14,16 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: art.peteashto
 
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
 
+**[Optical Array](http://art.peteashton.com/optical-array/)** - Installation for Stellar, a group show commissioned by Lumen. 
 
 **[Blow-Up 2018](http://art.peteashton.com/blow-up-2018/)** - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
 
 
 ### As Practitioner
 
-**[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools to be exhibited during Autumn. In progress.  
+**[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibtion during Autumn. *In progress.*  
+
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
 
 ## 2017
 
