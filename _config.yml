@@ -10,7 +10,7 @@ url: "http://art.peteashton.com" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 20
+tiles-count: 30
 
 # Social settings
 github_url: https://github.com/peteash10
