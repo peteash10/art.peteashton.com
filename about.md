@@ -1,13 +1,11 @@
 ---
 layout: page
 title: About Pete Ashton
-image: assets/images/pete_and_shadow.jpg
+image: assets/images/oneeighty.jpg
 permalink: about/
 ---
 
 My name is [Pete Ashton](http://peteashton.com).
-
-![](/assets/images/oneeighty.jpg)
 
 I'm a multidisciplinary artist working in Birmingham in the North West of Europe. My work uses media technologies to explore how we perceive and understand the world around us. An advocate of peer and self-learning, I use art to look at traditionally academic subjects in new ways, seeing it as a form of applied philosophical enquiry. 
 
