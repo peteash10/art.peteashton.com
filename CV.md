@@ -23,7 +23,7 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 **[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibtion during Autumn. *In progress.*  
 
-**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk commissioned as part of therapeutic retreat. 
 
 ## 2017
 
@@ -48,7 +48,7 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 **[BOM Art and Tech Social](http://www.bom.org.uk/event/artandtech-pete-ashton/)** - Experimenrtal Capture workshop exploring the edges of photography.
 
-**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk commissioned as part of therapeutic retreat. 
 
 **[Digitalis Milton Keynes](http://digitalismk.org)** - Sonification workshop at Milton Keynes library.
 
@@ -75,7 +75,7 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 **[Art in Crisis](http://www.bom.org.uk/event/art-in-crisis/)** - Workshop and photography walks with homeless people resulting in exhibtion of their work at Birmingham Open Media. 
 
-**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk comissioned as part of therapeutic retreat. 
+**[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk commissioned as part of therapeutic retreat. 
 
 **[Gallery 37](http://digitalbirmingham.co.uk/blog/2016/07/15/birmingham-youth-arts-programme-to-provide-free-training-in-coding/)** - Photography mentoring for young people not in education, employment or training. 
 
