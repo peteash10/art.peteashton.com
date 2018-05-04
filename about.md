@@ -11,6 +11,8 @@ I'm a multidisciplinary artist working in Birmingham in the North West of Europe
 
 I realised I was an artist in my early 40s and have centred my practice on cameras as post-photographic data-capture devices. Like [most data-artists](https://twitter.com/holyurl/status/894326191724867584) I am concerned with identity, privacy and corporate surveillance under late-capitalism and attempt to make work about this that doesn't simply involve screaming helplessly into the void. 
 
+[Here is my CV](http://art.peteashton.com/cv/)
+
 I occasionally [blog](http://blog.peteashton.com). 
 
 If I'm working with you on a project and you need a photo, please feel free to use any on this page. 
