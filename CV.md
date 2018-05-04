@@ -18,7 +18,6 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 **[Blow-Up 2018](http://art.peteashton.com/blow-up-2018/)** - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
 
-
 ### As Practitioner
 
 **[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibtion during Autumn. *In progress.*  
@@ -40,7 +39,6 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 **[Human Interfaces Conference](http://aphe.ac.uk/humaninterfaces/)** - Invited speaker at Association for Photography in Higher Education Summer Conference.
 
 **[ASTONish](https://www.astonishleadership.com)** - Invited speaker at creative leadership workshop.
-
 
 ### As Practitioner
 
