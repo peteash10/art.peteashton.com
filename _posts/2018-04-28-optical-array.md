@@ -62,6 +62,3 @@ Before de-installing the piece I wanted to see how other styles of video would w
 
 I used some of [Antonio Robert's work](https://www.youtube.com/watch?v=9Q1UsiteqFc), my own [Slitscan Selfies](https://vimeo.com/89461938), [Koyaanisqatsi Slitscanned](http://art.peteashton.com/koyaanisqatsi-slitscanned/), [A Portrait of Birmingham](http://art.peteashton.com/portrait-bham) and the [Avengers trailer](https://www.youtube.com/watch?v=QwievZ1Tx-8).
 
-
-
-
