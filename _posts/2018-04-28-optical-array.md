@@ -60,5 +60,7 @@ Before de-installing the piece I wanted to see how other styles of video would w
 
 <div style="padding:56.25% 0 0 0;position:relative; margin-bottom 2em;"><iframe src="https://player.vimeo.com/video/268483173" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+&nbsp;
+
 I used some of [Antonio Robert's work](https://www.youtube.com/watch?v=9Q1UsiteqFc), my own [Slitscan Selfies](https://vimeo.com/89461938), [Koyaanisqatsi Slitscanned](http://art.peteashton.com/koyaanisqatsi-slitscanned/), [A Portrait of Birmingham](http://art.peteashton.com/portrait-bham) and the [Avengers trailer](https://www.youtube.com/watch?v=QwievZ1Tx-8).
 
