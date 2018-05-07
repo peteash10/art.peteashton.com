@@ -12,6 +12,8 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 ## 2018
 
+### As Artist
+
 **[Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)** - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas.
 
 **[Optical Array](http://art.peteashton.com/optical-array/)** - Installation for Stellar, a group show commissioned by Lumen. 
@@ -20,11 +22,15 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 
 ### As Practitioner
 
-**[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibtion during Autumn. *In progress.*  
+**[Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)** - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibtion during Autumn, run by the Thames Festival Trust and The British Council. *In progress.*  
+
+**[AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)** - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) comissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
 
 **[Escaping Victimhood](http://www.escapingvictimhood.com)** - Photography walk commissioned as part of therapeutic retreat. 
 
 ## 2017
+
+### As Artist
 
 **[Instructions for Humans](http://art.peteashton.com/instructions-for-humans/)** - Major three month exhibition of new body of work at Birmingham Open Media funded by Arts Council England. Full report forthcoming. 
 
@@ -51,6 +57,8 @@ Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteasht
 **[Digitalis Milton Keynes](http://digitalismk.org)** - Sonification workshop at Milton Keynes library.
 
 ## 2016
+
+### As Artist
 
 **[Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)** - year long fellowship including group show and involvement in BOM's educational outreach work. 
 
