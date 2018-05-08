@@ -46,6 +46,8 @@ Optical lenses enable us to see the otherwise invisible, from the microscopic to
 
 ![](http://art.peteashton.com/assets/images/optical-array-pete4.jpg)
 
+![](http://art.peteashton.com/assets/images/optical-array-lidia-bianchi.jpg)
+
 ![](http://art.peteashton.com/assets/images/optical-array-fi.jpg)
 
 ![](http://art.peteashton.com/assets/images/optical-array-pete3.jpg)
