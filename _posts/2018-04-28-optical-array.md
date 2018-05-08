@@ -18,6 +18,8 @@ Optical lenses enable us to see the otherwise invisible, from the microscopic to
 
 ## Some Photos
 
+[Vivid's photos of the whole group show are here.](https://www.flickr.com/photos/vividprojects/sets/72157668388497538/)
+
 ![](http://art.peteashton.com/assets/images/optical-array-1.jpg)
 
 ![](http://art.peteashton.com/assets/images/optical-array-2.jpg)
