@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pictures from Dorian Gray
-description: Generating images from a novel using pix2pix and a photographic archive.
+description: Generating images from a novel using an AI system trained on a photographic archive.
 date:   2017-02-24 15:00:00 +0000
 image: http://blog.peteashton.com/images/Pictures_From_Dorian_Gray_6.jpg
 ---
