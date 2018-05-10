@@ -39,7 +39,7 @@ Once the training had finished processing overnight (it's a long process, though
 
 And here's all the pages in a [video](https://vimeo.com/205563393):
 
-<iframe src="https://player.vimeo.com/video/205563393?loop=1&title=0&byline=0&portrait=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/205563393" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 You can also [download it as a PDF](http://blog.peteashton.com/images/Pictures_From_Dorian_Gray.pdf) if you like. 
 
