@@ -27,7 +27,7 @@ As a freelance artist practitioner I strive to ensure my employment supports my 
 - [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)  - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibition during Autumn, run by the Thames Festival Trust and The British Council. *In progress.*  
 - [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)  - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) commissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
 - [Escaping Victimhood](http://www.escapingvictimhood.com)  - Photography walk commissioned as part of therapeutic retreat. 
-- [Photo School](http://photo-school.co.uk/walks)  Regular photography group walks around areas of Birmingham.
+- [Photo School](http://photo-school.co.uk/walks) -  Regular photography group walks around areas of Birmingham.
 
 ## 2017
 ### As Artist
@@ -45,7 +45,7 @@ As a freelance artist practitioner I strive to ensure my employment supports my 
 - [BOM Art and Tech Social](http://www.bom.org.uk/event/artandtech-pete-ashton/)  - Experimental Capture workshop exploring the edges of photography.
 - [Escaping Victimhood](http://www.escapingvictimhood.com)  - Photography walk commissioned as part of therapeutic retreat. 
 - [Digitalis Milton Keynes](http://digitalismk.org)  - Sonification workshop at Milton Keynes library.
-- [Photo School](http://photo-school.co.uk/walks)  Regular photography group walks around areas of Birmingham.
+- [Photo School](http://photo-school.co.uk/walks) - Regular photography group walks around areas of Birmingham.
 
 ## 2016
 ### As Artist
@@ -64,7 +64,7 @@ As a freelance artist practitioner I strive to ensure my employment supports my 
 - [Escaping Victimhood](http://www.escapingvictimhood.com)  - Photography walk commissioned as part of therapeutic retreat. 
 - [Gallery 37](http://digitalbirmingham.co.uk/blog/2016/07/15/birmingham-youth-arts-programme-to-provide-free-training-in-coding/)  - Photography mentoring for young people not in education, employment or training. 
 - [SOAK](https://artsforumsellyoak.wordpress.com/2016/04/21/art-soak-12-15-may-2016/)  - Guided Photography Walk along river for suburban arts festival.
-- [Photo School](http://photo-school.co.uk/walks)  Regular photography group walks around areas of Birmingham.
+- [Photo School](http://photo-school.co.uk/walks) - Regular photography group walks around areas of Birmingham.
 
 ### As Producer
 - [Birmingham Camera Obscura R&D Programme](http://bhamobscura.com/artworks/)  - Commissioned and produced, with Jenny Duffin, four artists to create new works using the Birmingham Camera Obscura.
