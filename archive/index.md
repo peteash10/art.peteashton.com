@@ -9,26 +9,78 @@ title: Pete Ashton Archive
 ## 2018
 
 ### Jan
+- Offloaded nearly all my comics and graphic novels to various people. Kept two small shelves worth. 
+- Holiday in Fuerteventura.
+
 ### Feb
+- Open Zine Archive - showed zines to Kath and Katie of Cross City Zine. 
+
 ### Mar
+- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) starts.
+- Diagnosed with Strong Autistic Traits. 
+- Went to Astronomy night at Lickey Hills. Decide to build telescope. 
+- [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/) - contribution to Black Hole Club group show. 
+
 ### Apr
+- Go to Far Out Brum gallery launch at The Wig. [Report.](https://blog.peteashton.com/art/2018/04/10/three-artists)
+- Run photography session for [Escaping Victimhood](http://www.escapingvictimhood.com).
+- [Optical Array](http://art.peteashton.com/optical-array/) - Installation for Stellar, a group show commissioned by Lumen. 
+- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) sessions in Evesham and Tenbury
+
 ### May
+- [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)  - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) commissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
+- Photo shoot for The Courtesy Group.
+- Artefact's back room and yard open. 
+- Commissioned to do a photo walk in Jewellery Quarter. 
+- Attend Joey Holder's What Are The Deep Belief Networks in Derby. [Audio.](https://soundcloud.com/joey-holder/what-are-deep-belief-networks)
+
 ### Jun
+- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) session in Pershore.
+- Apply for Near Now fellowship. 
+- Open Zine Archive at Artefact. 
+- Coventry Artspace residency.
+- Flash - a camera obscura-based installation for Another Dimension group show at Vivid. 
+- Attended Living Room Light Exchange 1. 
+
+
 ### Jul
+- Attended Living Room Light Exchange 2. 
+- Sian McFarlane's crit club.
+- Niece and nephew come to stay.
+- Narrowboat holiday with sister's family. 
+- Trial some Photo School intermediate classes at Artefact. 
+- Start regularly volunteering at Fat Fluffs.
+
+
 ### Aug
+- Applied for job at Loaf.
+- Attended Dinosaur Kilby's crit club.
+- Had "art day" with Emily Rodderick. 
+- Set up camera obscuras at local allotments BBQ. 
+
 ### Sep
+- Start work at Loaf.
+- Stirchley Salon starts. 
+- Attended Screaming Females gig with Jez. Discovered current punk/DIY scene. 
+- Jewellery Quarter heritage photo walks. 
+- Dead Shrines camera obscura test in Stirchley Park.
+- Mother visits from New Zealand.  
+- WiP screening of Andy's library film. 
+
+
 ### Oct
+- BOM re-opens after major refurb. 
+- Do my own crit club at Vivid. 
+- Run first Bournville photo walk. 
+
+
 ### Nov
 ### Dec
 
-- [Optical Array](http://art.peteashton.com/optical-array/)  - Installation for Stellar, a group show commissioned by Lumen. 
-- [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/)  - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
+
 
 ### As Practitioner
-- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)  - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibition during Autumn, run by the Thames Festival Trust and The British Council. *In progress.*  
-- [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)  - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) commissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
-- [Escaping Victimhood](http://www.escapingvictimhood.com)  - Photography walk commissioned as part of therapeutic retreat. 
-- [Photo School](http://photo-school.co.uk/walks) -  Regular photography group walks around areas of Birmingham.
+
 
 ## 2017
 ### As Artist
