@@ -5,17 +5,22 @@ title: Pete Ashton Archive
 
 ![](http://art.peteashton.com/assets/images/emrodnotes.jpg)
 
-## Statement
-I am a multidisciplinary artist working in Birmingham in the North West of Europe. My work uses media technologies to explore how we perceive and understand the world around us. As an advocate of peer and self-learning within artistic communities in Birmingham, I use art to explore traditionally academic subjects in new ways, seeing my practice as a form of applied philosophical enquiry.
-
-I became an artist in my late 30s and have centred my practice on cameras as post-photographic data-capture devices. Like many artists working with technology I find myself concerned with identity, privacy and corporate surveillance under late-capitalism. 
-
-As a freelance artist practitioner I strive to ensure my employment supports my personal practice both financially and artistically, and vice-versa. 
 
 ## 2018
 
-### As Artist
-- [Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)  - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas through regular group exhibitions.
+### Jan
+### Feb
+### Mar
+### Apr
+### May
+### Jun
+### Jul
+### Aug
+### Sep
+### Oct
+### Nov
+### Dec
+
 - [Optical Array](http://art.peteashton.com/optical-array/)  - Installation for Stellar, a group show commissioned by Lumen. 
 - [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/)  - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
 
