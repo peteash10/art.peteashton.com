@@ -3,10 +3,7 @@ layout: page
 title: Pete Ashton Archive
 ---
 
-Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteashton.com](http://art.peteashton.com)  Email: pete@peteashton.com  Phone: +44 7775 690 106  
-
-*Download CV as [PDF](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_june.pdf).*
-
+![](http://art.peteashton.com/assets/images/emrodnotes.jpg)
 
 ## Statement
 I am a multidisciplinary artist working in Birmingham in the North West of Europe. My work uses media technologies to explore how we perceive and understand the world around us. As an advocate of peer and self-learning within artistic communities in Birmingham, I use art to explore traditionally academic subjects in new ways, seeing my practice as a form of applied philosophical enquiry.
