@@ -13,21 +13,25 @@ title: Pete Ashton Archive
 - Holiday in Fuerteventura.
 
 ### Feb
+
 - Open Zine Archive - showed zines to Kath and Katie of Cross City Zine. 
 
 ### Mar
+
 - [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) starts.
 - Diagnosed with Strong Autistic Traits. 
 - Went to Astronomy night at Lickey Hills. Decide to build telescope. 
 - [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/) - contribution to Black Hole Club group show. 
 
 ### Apr
+
 - Go to Far Out Brum gallery launch at The Wig. [Report.](https://blog.peteashton.com/art/2018/04/10/three-artists)
 - Run photography session for [Escaping Victimhood](http://www.escapingvictimhood.com).
 - [Optical Array](http://art.peteashton.com/optical-array/) - Installation for Stellar, a group show commissioned by Lumen. 
 - [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) sessions in Evesham and Tenbury
 
 ### May
+
 - [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)  - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) commissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
 - Photo shoot for The Courtesy Group.
 - Artefact's back room and yard open. 
@@ -35,6 +39,7 @@ title: Pete Ashton Archive
 - Attend Joey Holder's What Are The Deep Belief Networks in Derby. [Audio.](https://soundcloud.com/joey-holder/what-are-deep-belief-networks)
 
 ### Jun
+
 - [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) session in Pershore.
 - Apply for Near Now fellowship. 
 - Open Zine Archive at Artefact. 
@@ -44,6 +49,7 @@ title: Pete Ashton Archive
 
 
 ### Jul
+
 - Attended Living Room Light Exchange 2. 
 - Sian McFarlane's crit club.
 - Niece and nephew come to stay.
@@ -53,12 +59,14 @@ title: Pete Ashton Archive
 
 
 ### Aug
+
 - Applied for job at Loaf.
 - Attended Dinosaur Kilby's crit club.
 - Had "art day" with Emily Rodderick. 
 - Set up camera obscuras at local allotments BBQ. 
 
 ### Sep
+
 - Start work at Loaf.
 - Stirchley Salon starts. 
 - Attended Screaming Females gig with Jez. Discovered current punk/DIY scene. 
@@ -69,17 +77,11 @@ title: Pete Ashton Archive
 
 
 ### Oct
+
 - BOM re-opens after major refurb. 
 - Do my own crit club at Vivid. 
 - Run first Bournville photo walk. 
 
-
-### Nov
-### Dec
-
-
-
-### As Practitioner
 
 
 ## 2017
