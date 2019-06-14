@@ -31,9 +31,11 @@
     <div id="main">
 
         <!-- One -->
-        {% include tiles.html %}
-
-
+        <section id="one" class="tiles">
+    {% for post in site.categories['Gallery'] %}
+        {% include tiles-cat.html %}
+    {% endfor %}
+        </section>
 
 
     </div>
