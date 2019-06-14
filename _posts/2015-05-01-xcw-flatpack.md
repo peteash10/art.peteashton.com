@@ -3,7 +3,7 @@ layout: post
 title: Cross City Walk Treadmill
 description: An interactive walking movie for the Flatpack Film Festival
 permalink: /xcw-flatpack/
-image: assets/images/xcw-flatpack.jpg
+image: /assets/images/xcw-flatpack.jpg
 categories:
   - Gallery
   - Visual Art

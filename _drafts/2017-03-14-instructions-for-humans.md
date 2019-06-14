@@ -3,7 +3,7 @@ layout: post
 title: Instructions for Humans
 description: A Cargo Cult for Artificial Intelligence - a new work exploring human interactions with machine learning.
 permalink: /instructions-for-humans/
-image: assets/images/ifh_bodyscaner.jpg
+image: /assets/images/ifh_bodyscaner.jpg
 ---
 
 ![](http://art.peteashton.com/assets/images/ifh_bodyscaner.jpg)

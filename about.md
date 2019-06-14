@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pete Ashton
-image: assets/images/oneeighty.jpg
+image: /assets/images/oneeighty.jpg
 permalink: about/
 ---
 

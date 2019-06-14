@@ -3,7 +3,7 @@ layout: post
 title: Sitting In Stagram
 description: I am logged into an Instagram account, identical to the one you are in now.
 permalink: /sitting-in-stagram/
-image: assets/images/lucier-degraded.jpg
+image: /assets/images/lucier-degraded.jpg
 categories:
   - Online
   - Visual Art

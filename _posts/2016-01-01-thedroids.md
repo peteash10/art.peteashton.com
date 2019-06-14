@@ -3,7 +3,7 @@ layout: post
 title: The Droids
 description: When is a copyright infringement not a copyright infringement? When the robots can't see it.
 permalink: /the-droids/
-image: assets/images/thedroids.jpg
+image: /assets/images/thedroids.jpg
 categories:
   - Online
   - Visual Art

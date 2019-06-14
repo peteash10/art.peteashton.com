@@ -3,7 +3,7 @@ layout: post
 title: Ikon Traces
 description: Photography art-walk commissioned by the Ikon gallery as part of their 50th anniversary
 permalink: /ikon-traces/
-image: assets/images/ikontraces_seance.jpg
+image: /assets/images/ikontraces_seance.jpg
 categories:
   - Physical Spaces
   - Walking

@@ -3,7 +3,7 @@ layout: post
 title: Goodbye Wittgenstein
 description: A residency in Linz, Austria.
 permalink: /goodbye-wittgenstein/
-image: assets/images/wiggydreammap.jpg
+image: /assets/images/wiggydreammap.jpg
 categories:
   - Gallery
   - Residency 
