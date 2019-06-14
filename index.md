@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: categories
 title: Home
 landing-title: 'Some Art by Pete Ashton'
 description: null
