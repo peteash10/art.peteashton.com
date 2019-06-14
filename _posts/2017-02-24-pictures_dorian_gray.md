@@ -5,6 +5,10 @@ description: Generating images from a novel using an AI system trained on a phot
 permalink: /pictures_from_dorian_gray/
 date:   2017-02-24 15:00:00 +0000
 image: http://blog.peteashton.com/images/Pictures_From_Dorian_Gray_6.jpg
+categories:
+  - Machine Learning
+  - Visual Art
+  - Photography
 ---
 
 ![](http://blog.peteashton.com/images/Pictures_From_Dorian_Gray_6.jpg)

@@ -4,6 +4,10 @@ title: Instabeck
 description: Imagining a lost sculpture using Instagram images
 image: assets/images/Instabeck-1024x896.png
 permalink: instabeck
+categories:
+  - Gallery
+  - Commission
+  - Visual Art
 ---
 
 ![](/assets/images/Instabeck-1024x896.png)

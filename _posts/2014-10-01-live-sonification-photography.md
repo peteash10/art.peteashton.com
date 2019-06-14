@@ -4,6 +4,11 @@ title: Live Sonification of Photography
 description: Lecture and Performance of a system for turning photos into sound.
 permalink: /live-sonification-photography/
 image: assets/images/If_Wet_2014-Oct-30.jpg
+categories:
+  - Presetation
+  - Performance
+  - Visual Art
+  - Photography
 ---
 
 ![](/assets/images/If_Wet_2014-Oct-30.jpg)

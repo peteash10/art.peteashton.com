@@ -4,6 +4,10 @@ title: Transcripts of Humans
 description: Three months of talking to visitors in a gallery, transcribed for the gallery wall. 
 permalink: /transcripts-of-humans/
 image: http://instructionsforhumans.com/images/transcripts4.jpg
+categories:
+  - Gallery
+  - Instructions for Humans
+  - Performance
 ---
 
 The artist is based in the gallery from September to December 2017 for the [Instructions for Humans](http://instructionsforhumans.com/) exhibition. Visitors are invited to talk to the artist about the exhibition. These conversations with the artist are recorded because the artist has a terrible memory and would like to know what was talked about. The recordings are summarised by the transcriber, [Karen Cameron](https://twitter.com/KCanard). The transcriber was not in the gallery and only has the audio from one microphone to go on. Errors and assumptions are made. These are not corrected. 

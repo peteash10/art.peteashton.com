@@ -4,6 +4,10 @@ title: Cell Tower Mast For Sympathetic Magic
 description: Sculpture responding to data blackouts in Puerto Rico.
 permalink: /cell-tower-mast/
 image: http://instructionsforhumans.com/images/celltower4.jpg
+categories:
+  - Sculpture
+  - Gallery
+  - Instructions for Humans
 ---
 
 A wooden triangle structure with three H shapes on each corner mimicking the antenna of a cell tower mast. 

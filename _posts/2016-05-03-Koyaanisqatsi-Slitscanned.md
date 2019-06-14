@@ -4,6 +4,10 @@ title: Koyaanisqatsi Slitscanned
 description: Swapping the horizontal and temporal axes on a movie.
 permalink: /koyaanisqatsi-slitscanned/
 image: assets/images/koyaanisqatsi.jpg
+categories:
+  - Online
+  - Visual Art
+  - Video
 ---
 
 ![](/assets/images/koyaanisqatsi.jpg)

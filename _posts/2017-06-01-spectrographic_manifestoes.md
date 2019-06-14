@@ -4,6 +4,11 @@ title: Spectrographic Manifestoes
 description: Election speeches transformed from audio to graphical and back again.
 permalink: /spectrographic_manifestoes/
 image: http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg
+categories:
+  - Gallery
+  - Visual Art
+  - Interactive
+  - Performance
 ---
 
 ![](http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg)

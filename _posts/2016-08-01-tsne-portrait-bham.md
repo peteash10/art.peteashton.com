@@ -4,6 +4,10 @@ title: A Portrait of Birmingham
 description: A street-level representation of a complex city.
 image: assets/images/portrait-bham.jpg
 permalink: portrait-bham
+categories:
+  - Online
+  - Visual Art
+  - Photography
 ---
 
 ![](/assets/images/portrait-bham.jpg)

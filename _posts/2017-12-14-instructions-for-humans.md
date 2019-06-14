@@ -4,6 +4,10 @@ title: Instructions for Humans
 description: A Cargo Cult for Artificial Intelligence - new work exploring human interactions with machines.
 permalink: /instructions-for-humans/
 image: http://instructionsforhumans.com/images/puerto-rico-celltower.jpg
+categories:
+  - Machine Learning
+  - Gallery
+  - Instructions for Humans
 ---
 
 ![](http://instructionsforhumans.com/images/puerto-rico-celltower.jpg)
