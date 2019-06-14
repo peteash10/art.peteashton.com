@@ -1,10 +1,10 @@
 ---
-layout: home-gallery
+layout: home-online
 title: Home
-landing-title: 'Gallery Art by Pete Ashton'
+landing-title: 'Online Art by Pete Ashton'
 description: null
 image: null
 author: null
-permalink: art/gallery/
+permalink: art/online/
 ---
 
