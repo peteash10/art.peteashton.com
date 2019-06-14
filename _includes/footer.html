@@ -1,11 +1,60 @@
-<footer id="footer" class="site-footer">
-  <div class="inner">
-    <div class="copyright">
-      {% if site.copyright %}
-        {{ site.copyright | markdownify }}
-      {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
-      {% endif %}
-    </div>
-  </div>
-</footer>
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<span>{{ site.email }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>{{ site.phone }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-twitter"></span>
+					<h3><a href="{{ site.twitter_url }}">Twitter</a></h3>
+				</div>
+			</section>
+      
+  
+		</section>
+
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				<li><a href="https://www.instagram.com/peteashton/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				<li><a href="https://github.com/peteash10" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				<li><a href="https://www.flickr.com/photos/peteashton/" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
+				<li><a href="http://vimeo.com/peteashton/" class="icon alt fa-vimeo" target="_blank"><span class="label">Vimeo</span></a></li>
+				<li><a href="http://peteashton.tumblr.com" class="icon alt fa-tumblr" target="_blank"><span class="label">Tumblr</span></a></li>
+			</ul> 
+			<ul class="copyright">
+				<li>&copy; <a href="http://peteashton.com">Pete Ashton</a> </li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="{{ "/assets/js/jquery.min.js" | absolute_url }}"></script>
+	<script src="{{ "/assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+	<script src="{{ "/assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+	<script src="{{ "/assets/js/skel.min.js" | absolute_url }}"></script>
+	<script src="{{ "/assets/js/util.js" | absolute_url }}"></script>
+	<!--[if lte IE 8]><script src="{{ "/assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+	<script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
