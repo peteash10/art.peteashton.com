@@ -7,3 +7,6 @@ image: null
 author: null
 ---
 
+{% for post in site.categories['Gallery'] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
