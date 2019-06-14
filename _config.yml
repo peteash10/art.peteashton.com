@@ -19,3 +19,6 @@ twitter_url: https://twitter.com/peteashton
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-archives
