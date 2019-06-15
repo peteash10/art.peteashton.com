@@ -13,7 +13,7 @@ The previous paragraph can serve as an artist biography should you need one from
 
 An advocate of peer and self-learning, I use art to look at traditionally academic subjects in new ways, seeing it as a form of applied philosophical enquiry. 
 
-I realised I was an artist in my early 40s and have centred my practice on cameras as post-photographic data-capture devices. Like [most data-artists](https://twitter.com/holyurl/status/894326191724867584) I am concerned with identity, privacy and corporate surveillance under late-capitalism and attempt to make work about this that doesn't simply involve screaming helplessly into the void. 
+I realised I was an artist in my late 30s and have centred my practice on cameras as post-photographic data-capture devices. Like [most data-artists](https://twitter.com/holyurl/status/894326191724867584) I am concerned with identity, privacy and corporate surveillance under late-capitalism and attempt to make work about this that doesn't simply involve screaming helplessly into the void. 
 
 [Here is my CV](http://art.peteashton.com/cv/)
 
