@@ -21,7 +21,7 @@ This was the culmination of a year or so’s work exploring slit-scan photograph
 
 The presentation is about 25 minutes long with 10 minutes of intro, 10 minutes of demo and 5 minutes of Q&A. Thanks to Sam Underwood and David Morton for hosting.
 
-- <a href="http://www.ifwet.org.uk/documentation/if-wet-19-photo-documentation/">Documentation and photography (by George Benson) at If Wet.</a>
+- <a href="http://mirrors.peteashton.com/ifwet.org.uk/index.html%3Fp=1508.html">Documentation and photography (by George Benson) at If Wet.</a>
 
 
 ## References

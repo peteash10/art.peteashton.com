@@ -16,18 +16,50 @@ I became an artist in my late 30s and have centred my practice on cameras as pos
 
 As a freelance artist practitioner I strive to ensure my employment supports my personal practice both financially and artistically, and vice-versa. 
 
+## 2019
+
+### As Artist
+
+I decided to take an R&D sabatical from being a practicing artist in 2019 to regroup. 
+
+### As Practitioner
+- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world) - Artist facilitator producing two artworks with students at Worcestershire schools for national touring exhibition in Autumn, run by the Thames Festival Trust and The British Council. 
+- Stirchley Salon - Ran a artists discussion group at Artifact Projects where artists and makers presented their work to their peers. 
+- Stirchley High Street Stories - Photography workshop for community arts project.
+- Tækniskólinn School of Photography - Three day photography workshop in Birmingham for Icelandic students as part of UK visit.  
+- Dead Shrines - Camera Obscura workshop and public talk. 
+- CoCoMad - Camera Obscura exhibit at community festival.
+
+### Consultancy / Mentoring
+
+Dead Shrines - Camera Obscura consultant for ACE-funded public sculpture comission in Stirchley Park.
+
+Paradise Lost - Mentoring Andy Howlett through production of his documentary about Birmingham Central Library. 
+
+Jo Gane - Camera Obscura consultant for ACE-funded work exploring links between early photography and drawing.
+
 ## 2018
 
 ### As Artist
 - [Black Hole Club](http://www.vividprojects.org.uk/programme/blackholeclub2018/)  - Member of Vivid Project's programme for artists, designers, curators and writers in the West Midlands to share and test ideas through regular group exhibitions.
-- [Optical Array](http://art.peteashton.com/optical-array/)  - Installation for Stellar, a group show commissioned by Lumen. 
-- [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/)  - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations. In this version David Hemmings is The Data Centre.
+	- Scab - 3D artwork for Black Hole Club online exhibition.
+	- Flash - Installation for Another Dimension, group show with Black Hole Club members.
+	- City Arcadia mini-residency with Black Hole Club members.
+	- [Optical Array](http://art.peteashton.com/optical-array/)  - Installation for Stellar, a group show commissioned by Lumen. 
+	- [Blow-Up 2018](http://art.peteashton.com/blow-up-2018/) - Reimagining the 1960s mystery film as a metaphor for our relationship with data corporations, for group show with Black Hole Club members.
+
+- Open Zine Archive - Collaboration with Cross City Zine to present my collection of 1990s fanzines and related publications. 
 
 ### As Practitioner
-- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)  - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibition during Autumn, run by the Thames Festival Trust and The British Council. *In progress.*  
+- Jewellery Quarter Development Trust walk for festival
+- [Rivers of the World](https://thamesfestivaltrust.org/our-work/education-programme/rivers-of-the-world)  - Artist facilitator producing three artworks with students at Worcestershire schools for national touring exhibition in Autumn, run by the Thames Festival Trust and The British Council.  
 - [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)  - Workshop for the [Art AI Festival](http://art-ai.dmu.ac.uk) commissioned by De Montfort University and The Phoenix Arts Centre, Leicester.
 - [Escaping Victimhood](http://www.escapingvictimhood.com)  - Photography walk commissioned as part of therapeutic retreat. 
 - [Photo School](http://photo-school.co.uk/walks) -  Regular photography group walks around areas of Birmingham.
+
+### As Speaker
+
+- [Crit Club](https://vimeo.com/294255465) - Presentation of my artistic practice to Black Hole Club members.
 
 ## 2017
 ### As Artist
