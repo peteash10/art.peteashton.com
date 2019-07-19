@@ -12,7 +12,7 @@ I was assistant curator to [Antonio Roberts](https://www.hellocatfood.com/byob-b
 
 ![](http://art.peteashton.com/assets/images/byob2013pic.jpg)
 
-### Walkthrough video
+### Walkthrough video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zFpjVoPSMU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
