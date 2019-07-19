@@ -22,7 +22,7 @@ The walks took place at weekends in November.
 
 Iain Armstrong lead the listening exercises, effectively tuning people’s perception of the environment through their ears. He used different techniques for each section of the walk which I translated into photographic techniques. So when he asked people to listen to distant sounds I got them to look for distant subjects. When he got them to hear movement I asked them to photograph movement. The instructions were simple, giving people freedom to interpret them loosely.
 
-### Walk 2 - Micro-listening with Sam Underwood
+### Walk 2 - Micro-listening with Sam Underwood
 
 Sam’s walk was theoretically similar to Ian’s but had a distinctly different remit. While Iain had very much been exploring the landscape I wanted Sam to help people explore the details. Sam brought a van-load of tools - contact microphones, stethoscopes, hydrophones, amplifiers and headphones - so people could hear the small sounds that echo through the fabric of Digbeth. I wanted to relate this to close-up and abstract photography where the photographer gets in close and reveals aspects of a place not obvious to the casual eye.
 
