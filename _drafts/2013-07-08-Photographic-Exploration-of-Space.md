@@ -36,6 +36,8 @@ The outcome of the funded period was an ebook titled "Collective Photography", m
 
 > What does it mean to photograph as a group? How can leading such groups be an artistic practice? Based on a year researching photography and guided walking in Birmingham, the book follows Pete Ashton as he navigates his first Arts Council grant and becomes an Artist.
 
+On 21st February 2014 I also presented the work at [Bees in a Tin](http://manyandvaried.org.uk/projects/bees2014/), a gathering of artists "who make or are interested in unique interfaces for the world around them". 
+
 - [PDF of the book](https://www.dropbox.com/s/91i5v7r3fteafh3/collectivephotography.pdf?dl=0).
 - [Photos and Audio from the walks](https://www.dropbox.com/s/xp60ibm6o43zrwu/Walks%20photo%20and%20audio%20packages.zip?dl=0)
 
