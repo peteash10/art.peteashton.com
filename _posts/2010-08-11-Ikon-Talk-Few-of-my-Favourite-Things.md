@@ -6,7 +6,7 @@ permalink: /ikon-favourite-things/
 image: /assets/images/ikon-fave-things.jpg
 ---
 
-The Ikon gallery in Birmingham had a series of talks called "These Are a Few of my Favourite Things", a Desert Island Discs-style event where guests talk about eight works of art. For some reason I was asked to speak in the 2010 programme, presumaby because the Created in Birmingham blog had mad a bit of an impact on these scene, or maybe they just had a space they needed to fill. Whatever the reasoning I blunded in with my selection of stuff-I-like-that-might-be-art and spoke to a surprisingly full room. 
+The Ikon gallery in Birmingham had a series of talks called "These Are a Few of my Favourite Things", a Desert Island Discs-style event where guests talk about eight works of art. For some reason I was asked to speak in the 2010 programme, presumably because the Created in Birmingham blog had mad a bit of an impact on these scene, or maybe they just had a space they needed to fill. Whatever the reasoning I blundered in with my selection of stuff-I-like-that-might-be-art and spoke to a surprisingly full room. 
 
 [![](http://art.peteashton.com/assets/images/ikon-fave-things.jpg)](https://www.ikon-gallery.org/event/these-are-a-few-of-my-favourite-things-22/)
 

@@ -6,7 +6,7 @@ permalink: /8bit-pete-lecture
 image: /assets/images/8bitpetelectures.jpg
 ---
 
-I had a short period as a [chiptune DJ](https://en.wikipedia.org/wiki/Chiptune) at Kings Heath's fashional Hare and Hounds pub and was asked to show / present something at 7inch Cinema's 8bit night on June 28th 2010. I ran this video and talked over it, attempting to explain what was going on. 
+I had a short period as a [chiptune DJ](https://en.wikipedia.org/wiki/Chiptune) at Kings Heath's fashionable Hare and Hounds pub and was asked to show / present something at 7inch Cinema's 8bit night on June 28th 2010. I ran this video and talked over it, attempting to explain what was going on. 
 
 <iframe src="https://player.vimeo.com/video/12914811" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

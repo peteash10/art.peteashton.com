@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dirty New Media
-description: Glitch-art conference run by Antonio Robers which I attended
-permalink: /dirtynewmedia
+description: Glitch-art conference run by Antonio Roberts which I attended
+permalink: /dirtynewmedia/
 image: /assets/images/dirtynewmedia.jpg
 ---
 
@@ -15,7 +15,7 @@ In 2013 I was asked by my friend and Vivid Projects curator Antonio Roberts to p
 - That's stupid, and I can explain why. 
 - I want to do something like that. 
 
-Basicially I felt I was watching a peer group I should, or could, be part of. 
+Basically I felt I was watching a peer group I should, or could, be part of. 
 
 So, on 21st March 2013 I decided to actually become a proper artist, doing this sort of thing as professionally as possible. 
 
