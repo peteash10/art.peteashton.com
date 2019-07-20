@@ -2,7 +2,7 @@
 layout: post
 title: A Portrait of Birmingham
 description: A street-level representation of a complex city.
-image: /assets/images/portrait-bham.jpg
+image: /assets/images/portrait-bham_t.jpg
 permalink: portrait-bham
 categories:
   - Online
