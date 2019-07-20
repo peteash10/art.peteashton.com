@@ -6,7 +6,7 @@ permalink: /photographic-exploration-of-place/
 image: /assets/images/soundwalk-sam.jpg
 ---
 
-![](http://art.peteashton.com/assets/images/soundwalk-sam.jpg)
+![](http://art.peteashton.com/assets/images/g4a2013_application.jpg)
 
 Photographic Exploration of Place was a period of artistic development in 2013 funded by an Arts Council Grant for the Arts resulting in a series of group walks where participants were invited to take photographs while engaging with sound art. 
 
@@ -15,6 +15,8 @@ I decided to build on the [photo walks](http://photo-school.co.uk/walks/) I'd be
 I was inspired to work with sound artists having [documented](https://www.flickr.com/photos/peteashton/albums/72157633358548063) the [If Wet](http://mirrors.peteashton.com/ifwet.org.uk/) salon for experimental musicians where I used the processes and ideas expressed there to challenge my thinking about photography - when they said sound, I thought about light. 
 
 The artists I chose to work with were [Sam Underwood](http://www.mrunderwood.co.uk), the co-founder of If Wet, and [SoundKitchen](https://soundkitchenuk.org), a collective of artists who had run a "sound walk" as part of the Still Walking festival the year before. 
+
+![](http://art.peteashton.com/assets/images/soundwalk-sam.jpg)
 
 The walks took place at weekends in November.
 
