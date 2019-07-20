@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Created in Birmingham Shop
-description: A 3 month pop-up shop in Birmingham's Bull Ring centre
+description: A 3 month pop-up shop in Birmingham's Bull Ring centre.
 permalink: /cib-shop/
-image: /assets/images/
+image: /assets/images/cibshop_t.jpg
 ---
+
+![](http://art.peteashton.com/assets/images/cibshop_t.jpg)
 
 Created in Birmingham was a blog set up by myself in 2008 and run by a variety of people including Chris Unitt who, during his tenure, was invited by the Bull Ring shopping centre to run a pop-up shop for three months in the spring of 2010 in an empty unit in a prime location opposite the Apple Store. As I had retail experience I agreed to manange the day-to-day running of the shop. 
 
