@@ -2753,7 +2753,7 @@ img {max-width: 100%;}
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.2;
+				opacity: 0;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2772,7 +2772,7 @@ img {max-width: 100%;}
 			}
 
 			.tiles article:hover:before {
-				opacity: 0;
+				opacity: 0.2;
 			}
 
 			.tiles article.is-transitioning {
@@ -2787,7 +2787,7 @@ img {max-width: 100%;}
 				opacity: 0;
 			}
 
-	/*		.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
+			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 50%;
 			}
 
@@ -2822,7 +2822,7 @@ img {max-width: 100%;}
 				background-color: #87c5a4;
 				background-color: #cccccc; 
 			}
-*/
+
 		@media screen and (max-width: 1280px) {
 
 			.tiles article {
