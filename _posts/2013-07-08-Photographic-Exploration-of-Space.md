@@ -3,7 +3,7 @@ layout: post
 title: Photographic Exploration of Place
 description: Developing an artistic walking practice based on photo walks.
 permalink: /photographic-exploration-of-place/
-image: /assets/images/soundwalk-sam.jpg
+image: /assets/images/soundwalk-sam_t.jpg
 ---
 
 ![](http://art.peteashton.com/assets/images/g4a2013_application.jpg)

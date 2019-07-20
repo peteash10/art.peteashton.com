@@ -3,7 +3,7 @@ layout: post
 title: TTV Pete Exhibition
 description: My first public exhibition of my work - all the TTV photographs in the Moseley Exchange co-working space.
 permalink: /ttv-pete-exhibition/
-image: /assets/images/moseley-exchange-exhib.jpg
+image: /assets/images/moseley-exchange-exhib_t.jpg
 ---
 
 ![](http://art.peteashton.com/assets/images/moseley-exchange-exhib.jpg)
