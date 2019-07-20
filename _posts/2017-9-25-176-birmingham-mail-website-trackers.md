@@ -3,7 +3,7 @@ layout: post
 title: 176 Birmingham Mail Website Trackers
 description: Lifting the veil on the surveillance propping up local news.
 permalink: /176-birmingham-mail-website-trackers/
-image: http://art.peteashton.com/assets/images/bhammail176_1.jpg
+image: http://art.peteashton.com/assets/images/bhammail176_1_t.jpg
 categories:
   - Gallery
   - Instructions for Humans
