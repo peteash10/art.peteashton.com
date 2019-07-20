@@ -14,10 +14,6 @@ categories:
 ![](http://art.peteashton.com/assets/images/spectrographicmanifestos.jpg)
 
 
-
-# Spectrographic Manifestoes
-
-
 Interactive sonification installation at [Transmission](http://www.vividprojects.org.uk/programme/transmission/), a group show at Vivid Projects, Birmingham, exploring curious audio transmission methods. 2 – 3 June 2017
 
 Manifesto launch speeches by Theresa May and Jeremy Corbyn were transformed into spectrographs which could be ready by passing a photographic sonification application over them. 
