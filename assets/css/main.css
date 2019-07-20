@@ -1849,11 +1849,11 @@
 			}
 
 		header.major > p {
-			font-size: 0.7em;
+			font-size: 0.8em;
 		/*	font-weight: 600; */
 		/*	letter-spacing: 0.25em; */
 			margin-bottom: 0;
-			text-transform: uppercase;
+		/*	text-transform: uppercase; */
 		}
 
 		body.is-ie header.major > :first-child:after {
