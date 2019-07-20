@@ -3,7 +3,7 @@ layout: post
 title: Optical Array
 description: Installation for Stellar, a group show commissioned by Lumen on the theme on Space.
 permalink: /optical-array/
-image: http://art.peteashton.com/assets/images/optical-array-1_t.jpg
+image: http://art.peteashton.com/assets/images/optical-array-14_t.jpg
 categories:
   - Sculpture
   - Gallery
