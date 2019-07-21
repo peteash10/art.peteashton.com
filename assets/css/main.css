@@ -1867,8 +1867,11 @@
 	@media screen and (max-width: 736px) {
 
 		header.major > p br {
-			display: none;
-			font-weight: 600;
+/*			display: none;
+*/			
+		}
+		header.major > p {
+		font-weight: 600; 
 		}
 
 	}
@@ -2852,6 +2855,7 @@ img {max-width: 100%;}
 		}
 
 		@media screen and (max-width: 736px) {
+
 
 			.tiles article {
 				padding: 3em 1.5em 1em 1.5em ;
