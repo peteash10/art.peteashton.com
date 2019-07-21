@@ -2864,13 +2864,12 @@ img {max-width: 100%;}
 		@media screen and (max-width: 480px) {
 
 			.tiles {
-			/*	display: block; */
+			display: block; 
 			}
 
 				.tiles article {
 					height: 20em;
-				/*	width: 100% !important; */
-					width: 50% !important;
+					width: 100% !important; 
 
 				}
 				.tiles article h3 {
