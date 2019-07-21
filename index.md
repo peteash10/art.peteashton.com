@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Pete Ashton, Artist'
+landing-title: 'The Art of Pete Ashton'
 description: null
 image: null
 author: null
