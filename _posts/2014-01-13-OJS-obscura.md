@@ -2,6 +2,6 @@
 layout: post
 title: 
 description: 
-permalink: /
+permalink: /ojs_obscura/
 image: /assets/images/
 ---

@@ -6,7 +6,7 @@ permalink: /rotunda-obscura/
 image: /assets/images/rotundaobs01_t.jpg
 ---
 
-During our Pinhole Camera Workshop, Jenny Duffin and I casually mentioned that we could turn the room we were working in into a camera if we wanted to. A few months later we did. But not any room. Thanks to her contacts as an arts producer, Jenny secured a penthouse flat on the top floor of Birmingham's Rotunda and we set about blacking it out. 
+During our Pinhole Camera Workshop, [Jenny Duffin](http://www.jennyduffin.com) and I casually mentioned that we could turn the room we were working in into a camera if we wanted to. A few months later we did. But not any room. Thanks to her contacts as an arts producer, Jenny secured a penthouse flat on the top floor of Birmingham's Rotunda and we set about blacking it out. 
 
 Because we weren't using a lens, the aperture of our camera was a small hole cut in the plastic. The resulting projection was very dim and could barely be seen even when eyes had adjusted so photos were taken with long, up to 10-minute, exposures. 
 
