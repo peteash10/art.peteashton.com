@@ -3,5 +3,5 @@ layout: post
 title: Birmingham Open Media Fellowship
 description: (copy to come)
 permalink: /bom-fellowship/
-image: /assets/images/
+image: /assets/images/BOM_fellow_t.jpg
 ---
