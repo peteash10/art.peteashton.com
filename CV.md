@@ -4,7 +4,14 @@ title: Pete Ashton's Artist CV
 permalink: cv/
 ---
 
-Pete Ashton  DoB: 19 Sept 1972  Residence: Birmingham, UK  Web: [art.peteashton.com](http://art.peteashton.com)  Email: pete@peteashton.com  Phone: +44 7775 690 106  
+## This is being updated. If you require a copy in the meanwhile please get in touch. 
+
+Pete Ashton  
+DoB: 19 Sept 1972  
+Residence: Birmingham, UK  
+Web: [art.peteashton.com](http://art.peteashton.com)  
+Email: pete@peteashton.com  
+Phone: +44 7775 690 106  
 
 *Download CV as [PDF](http://art.peteashton.com/assets/docs/peteashton_artists_cv_2018_june.pdf).*
 
@@ -84,7 +91,8 @@ Jo Gane - Camera Obscura consultant for ACE-funded work exploring links between 
 - [Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)  - year-long fellowship including group show and involvement in BOM's educational outreach work. 
 - [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/)  - residency and group show, Linz, Austria
 - [20/20 Visions](http://art.peteashton.com/kwmc/)  - essay commissioned by Knowle West Media Centra for their 20th anniversary.
-- [Experimental Capture Workshop](http://golancourses.net/capture2016/)  - scholarship to study with Golan Levin at [Anderson Ranch](https://www.andersonranch.org), Colorado, USA. - [The Droids](http://art.peteashton.com/the-droids/)  - part of [Fermynwood’s Open Online Six: Too Long For iTunes](http://www.fermynwoods.co.uk/current-programme/open-online-six/).
+- [Experimental Capture Workshop](http://golancourses.net/capture2016/)  - scholarship to study with Golan Levin at [Anderson Ranch](https://www.andersonranch.org), Colorado, USA. 
+- [The Droids](http://art.peteashton.com/the-droids/)  - part of [Fermynwood’s Open Online Six: Too Long For iTunes](http://www.fermynwoods.co.uk/current-programme/open-online-six/).
 
 ### As Speaker
 - [Random String](http://randomstring.co)  - Invited speaker at arts and technology conference.
@@ -102,8 +110,12 @@ Jo Gane - Camera Obscura consultant for ACE-funded work exploring links between 
 - [Birmingham Camera Obscura R&D Programme](http://bhamobscura.com/artworks/)  - Commissioned and produced, with Jenny Duffin, four artists to create new works using the Birmingham Camera Obscura.
 
 ## 2015
-- [Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)  - year-long fellowship including group show and involvement in BOM's educational outreach work. - [Instabeck](http://art.peteashton.com/instabeck)  - part of [The JHB Archive](http://www.jogane.co.uk/projects/286/lost-sculpture-the-jhb-archive/) group show curated by Jo Gane.
-- [Cross City Walks at Flatpack](http://art.peteashton.com/xcw-flatpack/)  - interactive installation for [Flatpack Film Festival](http://flatpackfestival.org.uk).## 2014- [Ikon Traces Walking Tour](http://art.peteashton.com/ikon-traces/)  - commission from the [Ikon gallery](https://ikon-gallery.org) and the [Still Walking](http://www.stillwalking.org) festival.
+- [Birmingham Open Media Fellowship](http://www.bom.org.uk/bom-fellows/)  - year-long fellowship including group show and involvement in BOM's educational outreach work. 
+- [Instabeck](http://art.peteashton.com/instabeck)  - part of [The JHB Archive](http://www.jogane.co.uk/projects/286/lost-sculpture-the-jhb-archive/) group show curated by Jo Gane.
+- [Cross City Walks at Flatpack](http://art.peteashton.com/xcw-flatpack/)  - interactive installation for [Flatpack Film Festival](http://flatpackfestival.org.uk).
+
+## 2014
+- [Ikon Traces Walking Tour](http://art.peteashton.com/ikon-traces/)  - commission from the [Ikon gallery](https://ikon-gallery.org) and the [Still Walking](http://www.stillwalking.org) festival.
 - [Live Sonification of Photography](http://art.peteashton.com/live-sonification-photography/)  - performance at the [If Wet](http://www.ifwet.org.uk/documentation/if-wet-19-photo-documentation/) artists salon
 - [Collective Photography](https://leanpub.com/collectivephotography)  - Book documenting Arts Council funded artistic development programme researching and producing photo walks as an art form. 
 - [Typologies of Hypernetworked Vernacular Self-Portraiture](https://vimeo.com/90148397)  - short film, screened at [Flatpack Film Festival](http://flatpackfestival.org.uk).
