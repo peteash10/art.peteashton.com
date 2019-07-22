@@ -16,4 +16,4 @@ Audio was recorded on my phone resting on the table, so volume varies as I move 
 
 Fellow BHC member [Emily Roderick](https://twitter.com/emilyhroderick) kindly sent me her notes from my talk which I found fascinating. 
 
-[![](http://art.peteashton.com/assets/images/crit-club-emily-notes_1200.jpg)](http://art.peteashton.com/assets/images/crit-club-emily-notes.jpg)
+[![](http://art.peteashton.com/assets/images/crit-club-emily-notes-1200.jpg)](http://art.peteashton.com/assets/images/crit-club-emily-notes.jpg)
