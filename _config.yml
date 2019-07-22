@@ -13,8 +13,6 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 100
 
 # Social settings
-github_url: https://github.com/peteash10
-instagram_url: https://www.instagram.com/peteashton/
 twitter_url: https://twitter.com/peteashton
 
 # Build settings
