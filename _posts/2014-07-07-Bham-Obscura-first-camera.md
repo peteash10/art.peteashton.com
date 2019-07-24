@@ -6,9 +6,9 @@ permalink: /bhamobscura-1/
 image: /assets/images/BCO1_t.jpg
 ---
 
-[Birmingham Camera Obscura](http://bhamobscura.com) is an ongoing project co-founded by [Jenny Duffin](http://www.jennyduffin.com) and myself in 2014. The story goes that we met when running a [pinhole camera workshop](http://art.peteashton.com/BAF-pinhole/) where a off-hand comment about turning the classroom into a giant camera caused us to pause, look at each other and the rest is history. 
+[Birmingham Camera Obscura](http://bhamobscura.com) is an ongoing project co-founded by [Jenny Duffin](http://www.jennyduffin.com) and myself in 2014. The story goes that we met when running a [pinhole camera workshop](http://art.peteashton.com/BAF-pinhole/) where an off-hand comment about turning the classroom into a giant camera caused us to pause, look at each other and the rest is history. 
 
-Having converted a [couple](http://art.peteashton.com/rotunda-obscura/) of [rooms](http://art.peteashton.com/theatre_obscura/), we built our first lens-based camera obscura in the summer of 2014. We didn't know what we were doing, but we knew it would be ineresting. Somehow we learned that +1 closeup filters focussed a projected image at roughly 1 metre, meaning we needed a 1 metre box. Neither of us knew anything about carpentry (something I've rectified since, and would highly recommend to any artist) and the resulting construction reflected that.
+Having converted a [couple](http://art.peteashton.com/rotunda-obscura/) of [rooms](http://art.peteashton.com/theatre_obscura/), we built our first lens-based camera obscura in the summer of 2014. We didn't know what we were doing, but we knew it would be interesting. Somehow we learned that +1 closeup filters focussed a projected image at roughly 1 metre, meaning we needed a 1 metre box. Neither of us knew anything about carpentry (something I've rectified since, and would highly recommend to any artist) and the resulting construction reflected that.
 
 We also knew we needed a mirror and spent a while shining torches at mirrors in charity shops until we found one that didn't "ghost". And finally we wanted it to be mobile, so a trip to the [local bike shop](https://birminghambikefoundry.org) was in order. 
 
@@ -26,7 +26,7 @@ Initially we had people stand on a stool and look through a hole in the top.
 
 ![](http://art.peteashton.com/assets/images/bco/bco_1_05.jpg)
 
-Later we got rid of the box model and made a triangular black bag which hung in the frame with a hole on the front that you put you head through. 
+Later we got rid of the box model and made a triangular black bag which hung in the frame with a hole on the front that you put you head through. We disguised its bin-bag looks with a funky piece of gold cloth from Birmingham's Rag Market. 
 
 ![](http://art.peteashton.com/assets/images/bco/bco_1_06.jpg)
 
@@ -42,5 +42,7 @@ We took it to the following events over the late summer:
 - The Midlands Arts Centre
 - Eye Candy Festival
 - Moseley Folk Festival
+
+Everyone loved it, despite (and sometimes because) of its DIY appearance. It was about this time we realised we were onto something. An art project that stimulates you intellectually and creatively while making people happy is a rare thing. We knew we had to continue.
 
 As the sunlight got less reliable we took what we'd learned and decided to fundraise for a new camera using Kickstarter. We raised £2500 and [set to work](http://art.peteashton.com/bhamobscura-2/)...
