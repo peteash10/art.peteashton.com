@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outer Circle Bus Stops
-description: Photograhing every bus stop on a circular route.
+description: Photographing every bus stop on a circular route.
 permalink: /outercirclebusstops/
 image: /assets/images/outercircle.jpg
 ---
