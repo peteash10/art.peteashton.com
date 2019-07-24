@@ -4,6 +4,7 @@ title: Photo School with Pete Ashton
 description: Umbrella for my photography training and event freelance work. 
 permalink: /photo-school/
 image: /assets/images/photo-school-classroom_t.jpg
+duration: Ongoing
 ---
 
 ![](http://art.peteashton.com/assets/images/photo-school-logo.jpg)
