@@ -4,6 +4,7 @@ title: Dead Space
 description: My first 'proper' exhibition, in the windows of the old Birmingham Central Library.
 permalink: /dead-space/
 image: /assets/images/deadspace-inside_t.jpg
+duration: 1 month
 ---
 
 Dead Space was a series of exhibitions organised by Clare Farrell (now working as [WERK](http://www.werk.org.uk)) building on the [mural paintings by Lucy McLauchlan](http://lucy.beat13.co.uk/outside/udhutxk86mifo5fy4eeglk0lrb0uw1) on the now-demolished Birmingham Central Library.  Clare invited me to make some work using the TTV Photography technique and despite a very limited budget (£100) I decided to build a giant sculpture using old CRT monitors and cardboard tubes to showcase video work I'd been making recently. 

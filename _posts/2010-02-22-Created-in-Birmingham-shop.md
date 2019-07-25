@@ -4,6 +4,7 @@ title: Created in Birmingham Shop
 description: A 3 month pop-up shop in Birmingham's Bull Ring centre.
 permalink: /cib-shop/
 image: /assets/images/cibshop_t.jpg
+duration: 3 months
 ---
 
 ![](http://art.peteashton.com/assets/images/cibshop.jpg)
