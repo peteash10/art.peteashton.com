@@ -4,6 +4,7 @@ title: Outer Circle Bus Stops
 description: Photographing every bus stop on a circular route.
 permalink: /outercirclebusstops/
 image: /assets/images/outercircle.jpg
+
 ---
 
 ![](http://art.peteashton.com/assets/images/outercircle.jpg)

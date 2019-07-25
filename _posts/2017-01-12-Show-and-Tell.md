@@ -4,6 +4,7 @@ title: Show and Tell
 description: A support group for artists in Stirchley
 permalink: /showandtell/
 image: /assets/images/showandtell_t.jpg
+duration: 7 months
 ---
 
 ![](http://art.peteashton.com/assets/images/showandtell_t.jpg)

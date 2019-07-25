@@ -4,6 +4,7 @@ title: Bham Obscura - First Camera
 description: We knew nothing about building a camera obscura but we did it anyway. 
 permalink: /bhamobscura-1/
 image: /assets/images/BCO1_t.jpg
+duration: 2 months
 ---
 
 [Birmingham Camera Obscura](http://bhamobscura.com) is an ongoing project co-founded by [Jenny Duffin](http://www.jennyduffin.com) and myself in 2014. The story goes that we met when running a [pinhole camera workshop](http://art.peteashton.com/BAF-pinhole/) where an off-hand comment about turning the classroom into a giant camera caused us to pause, look at each other and the rest is history. 

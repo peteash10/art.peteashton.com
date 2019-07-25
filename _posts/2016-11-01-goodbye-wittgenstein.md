@@ -10,6 +10,7 @@ categories:
   - Visual Art
   - Photography
   - Walking
+duration: 1 month
 ---
 
 ![](/assets/images/wiggydreammap.jpg)

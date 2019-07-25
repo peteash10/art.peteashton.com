@@ -9,6 +9,8 @@ categories:
   - Machine Learning
   - Visual Art
   - Photography
+duration: online
+
 ---
 
 ![](/images/Pictures_From_Dorian_Gray_6.jpg)

@@ -8,6 +8,8 @@ categories:
   - Online
   - Visual Art
   - Video
+duration: online
+
 ---
 
 ![](/assets/images/thedroids.jpg)

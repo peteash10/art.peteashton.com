@@ -9,6 +9,7 @@ categories:
   - Visual Art
   - Performance Art
   - Photography
+duration: online
 ---
 
 

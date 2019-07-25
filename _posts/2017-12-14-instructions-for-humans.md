@@ -8,6 +8,7 @@ categories:
   - Machine Learning
   - Gallery
   - Instructions for Humans
+duration: 3 months
 ---
 
 ![](http://instructionsforhumans.com/images/puerto-rico-celltower.jpg)

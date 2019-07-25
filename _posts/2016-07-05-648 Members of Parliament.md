@@ -8,6 +8,7 @@ categories:
   - Online
   - Visual Art
   - Video
+duration: online
 ---
 
 ![](/assets/images/648-mps-all-merged.jpg)

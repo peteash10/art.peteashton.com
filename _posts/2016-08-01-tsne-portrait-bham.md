@@ -9,6 +9,8 @@ categories:
   - Visual Art
   - Photography
   - Machine Learning
+duration: online
+
 ---
 
 ![](/assets/images/portrait-bham.jpg)

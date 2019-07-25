@@ -4,6 +4,7 @@ title: Railroad Towns - music video
 description: A music video for Friends of the Stars, made using sequential TTV photographs. 
 permalink: /railroad-towns-video/
 image: /assets/images/railroadtowns.jpg
+duration: online
 ---
 
 A music video made for the band Friends of the Stars using my TTV photography technique, filmed at the Lifford reservoir, Stirchley.

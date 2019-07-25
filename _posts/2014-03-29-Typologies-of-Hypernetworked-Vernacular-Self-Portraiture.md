@@ -4,6 +4,7 @@ title: Typologies of Hypernetworked Vernacular Self-Portraiture
 description: A video essay about selfies.
 permalink: /typologies-hypernetworked-vernacular-selfportraiture/
 image: /assets/images/typologies.jpg
+duration: online
 ---
 
 During 2013 I become a bit obsessed with selfies, specifically how they were dismissed by "proper" photographers and adopted predominantly by young women. Those two things seemed connected. I collected hundreds of thousands from Instagram (their API was very liberal at the time and allowed bulk downloading) and set about making sense of them. 

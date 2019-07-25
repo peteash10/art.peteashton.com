@@ -4,7 +4,7 @@ title: Photographic Exploration of Place
 description: Developing an artistic walking practice based on photo walks.
 permalink: /photographic-exploration-of-place/
 image: /assets/images/soundwalk-sam_t.jpg
-duration: 4 months
+duration: 5 months
 ---
 
 ![](http://art.peteashton.com/assets/images/g4a2013_application.jpg)
