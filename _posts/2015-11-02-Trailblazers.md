@@ -9,7 +9,7 @@ duration: 3 months
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/164324550" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-[Trailblazers](http://www.stanscafe.co.uk/trailblazers.html) was an attempt by Birmingham City Council to survey the opinions of early-teen schoolchildren about the city and its future. Rather than send out questionaires they recruited Stan's Cafe, a theatre company with a strong eductional programme, to run it in their own way. 
+[Trailblazers](http://www.stanscafe.co.uk/trailblazers.html) was an attempt by Birmingham City Council to survey the opinions of early-teen schoolchildren about the city and its future. Rather than send out questionnaires they commissioned [Stan's Cafe](http://www.stanscafe.co.uk/), a theatre company with a strong educational programme, to run it in their own way. 
 
 The project ran in three broad stages. 
 
