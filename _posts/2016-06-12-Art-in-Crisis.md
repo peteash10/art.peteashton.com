@@ -13,11 +13,11 @@ Art in Crisis was a project run by homelessness charity [Crisis](https://www.cri
 
 I worked with John, Gareth and Alan, walking with cameras around Digbeth which they photographed from their perspective. We reviewed and discussed what to do with the photos and I produced the following three videos. 
 
-## John
+## John
 
 <iframe src="https://player.vimeo.com/video/350614643" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Gareth
+## Gareth
 
 <iframe src="https://player.vimeo.com/video/350614641" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
