@@ -15,11 +15,11 @@ I ceased being involved in this scene around 2000, drawing a line so I could con
 
 As the internet exploded and the need for alternative and underground communitites to use print and postal services diminished, the zine scenes of my day evaporated. But an interest in this physical medium rumbled along amongst the next generation of freaks and weirdos. 
 
-A couple of these weirdonauts, Katie Stafford and Katharine Wade, heard of my boxes of zines and, having dabbled in zine production themselves, were intrigued. They spent an afternoon digging through the stacks and proposed a simple exhibition at Artefact, the local arts cafe. 
+A couple of these weirdonauts, [Katie Stafford](https://twitter.com/katie_stafford) and [Katharine Wade](https://twitter.com/Kaaaaaaaaaaath), heard of my boxes of zines and, having dabbled in zine production themselves, were intrigued. They spent an afternoon digging through the stacks and proposed a simple exhibition at Artefact, the local arts cafe. 
 
 I loaded everything in to my car and Kath, at a loss as to how to curate it, emptied abolutely everything out. The end result was quite something and cause all manner of long-forgotten feelings and memories to rush back.
 
-My fellow zine-reviewer Jez Higgins joined me for an evening of talking about this stuff which was entertaining if a little haphazzard, and the exhibtion ran for a week generating a fair amount of interest. 
+My fellow zine-reviewer from those days [Jez Higgins](https://www.jezuk.co.uk/) joined me for an evening of talking about this stuff to people half our age which was entertaining if a little haphazzard, and the exhibtion ran for a week generating a fair amount of interest. 
 
 That said, this is a period that I have left behind. I have no interest in working with this collection, but I am open to others exploring it with my supervision. If this is something that you think you might like to do, please get in touch.
 
