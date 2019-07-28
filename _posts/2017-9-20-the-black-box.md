@@ -16,7 +16,7 @@ The Black Box is a 3 metre tall monoliths that spits out a piece of paper on ave
 
 The Black Box references [black box systems](https://en.wikipedia.org/wiki/Black_box) "which can be viewed in terms of their inputs and outputs without any knowledge of its internal workings."
 
-Part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition running at Birmingham Open Media, September - December 2017. 
+Part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition at Birmingham Open Media, September - December 2017. 
 
 ![](http://instructionsforhumans.com/images/blackbox1.jpg)
 

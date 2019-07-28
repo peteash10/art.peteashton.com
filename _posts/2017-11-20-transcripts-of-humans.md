@@ -14,7 +14,7 @@ The artist is based in the gallery from September to December 2017 for the [Inst
 
 The artist presents the trascripts on the walls of the gallery and has conversations with visitors about them. The transcriber continues to summarise conversations, some of which are now about her transcripts. This produces [interesting feedback loops](https://amwritingthings.tumblr.com/post/166671665230/systems-in-the-text). 
 
-[The transcripts are archived online](http://instructionsforhumans.com/transcripts/) and are currenty being packaged as a book to be available later in 2018. 
+[The transcripts are archived online](http://instructionsforhumans.com/transcripts/).
 
 
 ![](http://instructionsforhumans.com/images/transcripts4.jpg)
