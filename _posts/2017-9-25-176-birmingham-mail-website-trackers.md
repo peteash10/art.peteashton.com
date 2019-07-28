@@ -18,7 +18,7 @@ An A0 poster listing URLs for all the trackers found on a story on the [Birmingh
 
 [![](http://art.peteashton.com/assets/images/176_Birmingham_Mail_Trackers.jpg)](http://art.peteashton.com/assets/docs/176_Birmingham_Mail_Trackers.pdf)
 
-Part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition s at Birmingham Open Media, September - December 2017. 
+Part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition at Birmingham Open Media, September - December 2017. 
 
 
 
