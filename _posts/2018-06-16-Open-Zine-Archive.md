@@ -7,7 +7,7 @@ image: /assets/images/oza_t.jpg
 duration: 8 days
 ---
 
-![](http://art.peteashton.com/assets/images/OAZ01.jpg)
+![](http://art.peteashton.com/assets/images/OAZ03.jpg)
 
 During the 1990s I was involved in the self-published comics and zines community in the UK. Initially as a reviewer, and then a distribtor, I would receive countless photocopies and short-run publications, predominantly comics or about comics but also a wide range of topics, some obscure, some underground, some just weird. 
 
@@ -28,7 +28,7 @@ That said, this is a period that I have left behind. I have no interest in worki
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/142941788@N07/28472287437/in/album-72157695765819092/" title="VID_20180616_154903"><img src="https://live.staticflickr.com/843/28472287437_e5647f6ed9_b.jpg" width="576" height="1024" alt="VID_20180616_154903"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-![](http://art.peteashton.com/assets/images/OAZ03.jpg)
+![](http://art.peteashton.com/assets/images/OAZ01.jpg)
 
 ![](http://art.peteashton.com/assets/images/OAZ02.jpg)
 
