@@ -13,7 +13,7 @@ duration: 9 months
 
 I was heavily involved in designing the Dead Shrine for Stirchley Park and ran two events in the subsequent programme, a [camera obscura making workshop](https://www.instagram.com/p/Byfe0_sl0-y/) and a talk on the history of the camera obscura and why it might be relevant today. 
 
-The following images document the design, build and events I took part in. [The Kickstarter video](https://www.kickstarter.com/projects/stirchleyshrine/the-dead-shrines-project-stirchley-park?ref=user_menu) shows my working with Jonny and Dale before the build began. A documentary film by Hipkiss and Graney will be released soon. 
+The following images document the design, build and events I took part in. [The Kickstarter video](https://www.kickstarter.com/projects/stirchleyshrine/the-dead-shrines-project-stirchley-park?ref=user_menu) shows my working with Jonny and Dale before the build began. A documentary film by Hipkiss and Graney will be released soon, at which point I'll try to write in more detail about what we did and how. And maybe why. 
 
 ![](http://art.peteashton.com/assets/images/deadshines00001.jpg)  
 Sketch by Jonny Graney of how the camera obscura works.
