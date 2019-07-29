@@ -7,14 +7,13 @@ image: /assets/images/deadshrine_t.jpg
 duration: 9 months
 ---
 
+![](http://art.peteashton.com/assets/images/deadshines00004.jpg)
+
 [Dead Shrines](https://www.hipkissandgraney.com/the-dead-shrines-project) is an ongoing project by artist duo [Hipkiss and Graney](https://www.hipkissandgraney.com/), constructing large wooden sculptures in public spaces as a focus for community-focussed events. 
 
 I was heavily involved in designing the Dead Shrine for Stirchley Park and ran two events in the subsequent programme, a [camera obscura making workshop](https://www.instagram.com/p/Byfe0_sl0-y/) and a talk on the history of the camera obscura and why it might be relevant today. 
 
 The following images document the design, build and events I took part in. [The Kickstarter video](https://www.kickstarter.com/projects/stirchleyshrine/the-dead-shrines-project-stirchley-park?ref=user_menu) shows my working with Jonny and Dale before the build began. A documentary film by Hipkiss and Graney will be released soon. 
-
-![](http://art.peteashton.com/assets/images/deadshines00004.jpg)  
-Hipkiss and Graney, in costume, pose with their Dead Shrine.
 
 ![](http://art.peteashton.com/assets/images/deadshines00001.jpg)  
 Sketch by Jonny Graney of how the camera obscura works.
