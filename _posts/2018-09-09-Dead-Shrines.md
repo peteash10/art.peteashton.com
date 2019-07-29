@@ -11,10 +11,11 @@ duration: 9 months
 
 I was heavily involved in designing the Dead Shrine for Stirchley Park and ran two events in the subsequent programme, a [camera obscura making workshop](https://www.instagram.com/p/Byfe0_sl0-y/) and a talk on the history of the camera obscura and why it might be relevant today. 
 
-
 ![](http://art.peteashton.com/assets/images/deadshines00001.jpg)
+Sketch by Jonny Graney of how the camera obscura works.
 
 ![](http://art.peteashton.com/assets/images/deadshines00002.jpg)
+The Stirchley Dead Shrine. The small hole at the front houses the lens. 
 
 ![](http://art.peteashton.com/assets/images/deadshines00003.jpg)
 
