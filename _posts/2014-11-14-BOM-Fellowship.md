@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birmingham Open Media Fellowship
-description: (copy to come)
+description: Fellowship at arts organisation at intersection of art, technology and science.
 permalink: /bom-fellowship/
 image: /assets/images/BOM_fellow_t.jpg
 duration: 2 years 2 months
@@ -17,7 +17,7 @@ I was an inagural Fellow and continued in the programme until December 2016. Dur
 
 Being a BOM Fellow was incredibly important to my development as an artist, giving me the space and, more importantly, permission to push myself into interesting areas. It is incredibly doubtful I would be where I am now without BOM. 
 
-Many of my activities in this period were developed and housed at BOM, but Fellow-specific projects included:
+Many of my activities during 2015-17 were developed and housed at BOM, but Fellowship-specific projects included:
 
 - BOM Fellows exhibition March 2015 featuring [Sitting Instagram](http://art.peteashton.com/sitting-in-stagram/). 
 - BOM Awards - mentoring a final year BCU student through their exhibition.
