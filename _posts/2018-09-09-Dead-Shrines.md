@@ -20,51 +20,41 @@ The Stirchley Dead Shrine. The small hole at the front houses the lens.
 ![](http://art.peteashton.com/assets/images/deadshines00005.jpg)  
 Jonny Graney looks through the viewing port at the back of the Dead Shrine.
 
-![](http://art.peteashton.com/assets/images/deadshines00007.jpg)  
+![](http://art.peteashton.com/assets/images/deadshines00011.jpg)  
 I give my talk on the history and contemporary relevance of the camera obscura in Stirchley Park as part of a series of symposiums. 
 
-![](http://art.peteashton.com/assets/images/deadshines00010.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00013.jpg)  
+Conceptual sketch by Jonny Graney prior to the build.
 
-![](http://art.peteashton.com/assets/images/deadshines00011.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00015.jpg)  
+Design of the Dead Shrine in situ. 
 
-![](http://art.peteashton.com/assets/images/deadshines00012.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00017.jpg)  
+Conceptual sketch by Jonny Graney prior to the build.
 
-![](http://art.peteashton.com/assets/images/deadshines00013.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00019.jpg)  
+Conceptual sketch by Jonny Graney prior to the build.
 
-![](http://art.peteashton.com/assets/images/deadshines00014.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00025.jpg)  
+Contructing the Dead Shrine with Dale Hipkiss and Daniel Salisbury
 
-![](http://art.peteashton.com/assets/images/deadshines00015.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00026.jpg)  
+Me inside the build of the Dead Shrine with the lens hole before the lid went on. 
 
-![](http://art.peteashton.com/assets/images/deadshines00016.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00027.jpg)  
+The camera obscura lens. 
 
-![](http://art.peteashton.com/assets/images/deadshines00017.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00028.jpg)  
+On the roof with the projection screen visible.
 
-![](http://art.peteashton.com/assets/images/deadshines00018.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00029.jpg)  
+Dale Hipkiss fixing the projection screen inside the Dead Shrine. 
 
-![](http://art.peteashton.com/assets/images/deadshines00019.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00030.jpg)  
+Looking through the viewing port at the back of the Dead Shrine. 
 
-![](http://art.peteashton.com/assets/images/deadshines00020.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00031.jpg)  
+Participant at the camera obscura workshop wearing their camera.
 
-![](http://art.peteashton.com/assets/images/deadshines00021.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00022.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00023.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00024.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00025.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00026.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00027.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00028.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00029.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00030.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00031.jpg)
-
-![](http://art.peteashton.com/assets/images/deadshines00032.jpg)
+![](http://art.peteashton.com/assets/images/deadshines00032.jpg)  
+Participant at the camera obscura workshop showing off their camera. 
