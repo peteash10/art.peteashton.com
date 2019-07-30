@@ -4,7 +4,6 @@ title: Open Zine Archive
 description: My collection of thousands of zines and small press comics emptied out in a gallery for a week.
 permalink: /OZA/
 image: /assets/images/oza_t.jpg
-duration: 8 days
 ---
 
 ![](http://art.peteashton.com/assets/images/OAZ03.jpg)

@@ -9,7 +9,6 @@ categories:
   - Gallery
   - Interactive
   - Lens Art
-duration: 8 days
 ---
 
 ![](http://art.peteashton.com/assets/images/optical-array-14.jpg)

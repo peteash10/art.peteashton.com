@@ -8,7 +8,7 @@ categories:
   - Gallery
   - Commission
   - Visual Art
-duration: 23 days
+
 ---
 
 ![](/assets/images/Instabeck-1024x896.png)
