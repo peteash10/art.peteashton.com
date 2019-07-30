@@ -8,13 +8,15 @@ image: /assets/images/ars2017.jpg
 
 ![](http://art.peteashton.com/assets/images/ars2017.jpg)
 
-In 2017 I applied for and received an Engine micro-bursary from New Art West Midlands to visit the Ars Electronica Festival in Linz, Austria, in return for writing a report about it for those back home. 
+In 2017 I applied for and received an Engine micro-bursary from [New Art West Midlands](http://newartwestmidlands.co.uk) to visit the Ars Electronica Festival in Linz, Austria, in return for writing a report about it for those back home. 
 
 [The report is here](http://newartwestmidlands.co.uk/editorial/pete-ashton-on-ars-electronica-linz/) and archived below. 
 
 Due to my [Linz residency in 2016](http://art.peteashton.com/goodbye-wittgenstein/) I was able to stay with the [qujOchÖ](http://qujochoe.org/) artist collective who invited me to be part of the performance of their game [Myth of Theuth](https://qujochoe.org/myth-of-theuth-ars-electronica-festival-2017/), which got me accreditation as an Artist, which was nice. 
 
 ![](http://art.peteashton.com/assets/images/MYTHOS_VON_THEUTH_ARS_ELECTRONICA_2017_170910_26.jpg)
+
+# Pete Ashton on Ars Electronica, Linz
 
 [Ars Electronica](https://www.aec.at/festival/) is a large media arts festival and as such it functions like most large industry gatherings, albeit with a less rapaciously commercial imperative. It takes place in the city of Linz, the third largest in Austria, roughly 2/3rds the size of Wolverhampton, give or take. 
 
