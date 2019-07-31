@@ -13,7 +13,7 @@ duration: 8 months
 
 I worked in three schools over two days per school. We explored the river, recording it using predominantly cameras, and then produced artworks in the classroom which I finished off at home. Because I was working in a digital medium a lot of my work was done after the sessions (otherwise the pupils would be watching progress bars all afternoon) so we filled the days with producing materials for me to process later. 
 
-I was hired in part for the work I'd done using Focus Stacking and Photogrammetry, digital processes that use algorithmic systems incorrectly to produce strange perspectives, caught the producer's eyes so I implemented them with each work. 
+I was hired in part for the work I'd done using [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking) and [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry), digital processes where I use algorithmic systems incorrectly to produce strange perspectives, so I used them in the works. 
 
 The final pieces were exhibited as tall banners at London's OXO Tower in September 2018 and then toured the UK through the Autumn and Winter. 
 
