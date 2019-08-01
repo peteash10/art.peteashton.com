@@ -3,8 +3,7 @@ layout: post
 title: Dead Shrines
 description: A camera obscura sculpture in Stirchley Park.
 permalink: /dead-shrines/
-image: /assets/images/blackbox.png
-# image: /assets/images/deadshrine_t.jpg
+image: /assets/images/deadshrine_t.jpg
 duration: 9 months
 ---
 
