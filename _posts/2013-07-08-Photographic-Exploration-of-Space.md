@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photographic Exploration of Place
-description: Developing an artistic walking practice based on photo walks.
+description: Developing an artistic practice based on photo walks.
 permalink: /photographic-exploration-of-place/
 image: /assets/images/soundwalk-sam_t.jpg
 duration: 5 months

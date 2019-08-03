@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ikon Slow Boat
-description: Using blogging with the Ikon's Youth Programme's work.
+description: Using blogging with the Ikon's Youth Programme.
 permalink: /ikon-slow-boat/
 image: /assets/images/ikonslowboat-boat_t.jpg
 duration: 3 years 
