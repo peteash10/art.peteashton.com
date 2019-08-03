@@ -17,3 +17,4 @@ My work here was essentially support for Kate, developing her knowledge as much 
 
 ![](http://art.peteashton.com/assets/images/ikonslowboat-boat.jpg)
 
+*Logo design by [An Endless Supply](https://anendlesssupply.co.uk)*
