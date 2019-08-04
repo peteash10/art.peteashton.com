@@ -1854,7 +1854,7 @@
 		/*	letter-spacing: 0.25em; */
 			margin-bottom: 0;
 		/*	text-transform: uppercase; */
-			text-shadow: 0 10px 1em black, 0 -10px 1em black;
+			text-shadow: 0 1px 1em black, 0 -1px 1em black;
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -2738,7 +2738,7 @@ img {max-width: 100%;}
 			.tiles article h3 {
 				font-size: 1.5em;
 				line-height: 1;
-				text-shadow: 0 10px 1em black, 0 -10px 1em black;
+				text-shadow: 0 1px 1em black, 0 -1px 1em black;
 			}
 
 				.tiles article h3 a:hover {
