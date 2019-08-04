@@ -2738,6 +2738,7 @@ img {max-width: 100%;}
 			.tiles article h3 {
 				font-size: 1.5em;
 				line-height: 1;
+				text-shadow: 0 10px 1em black, 0 -10px 1em black;
 			}
 
 				.tiles article h3 a:hover {
