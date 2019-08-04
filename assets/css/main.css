@@ -2774,7 +2774,7 @@ img {max-width: 100%;}
 			}
 
 			.tiles article:after {
-			/*	background-color: rgba(36, 41, 67, 0.25);*/
+				background-color: rgba(36, 41, 67, 0.25);
 				content: '';
 				display: block;
 				height: 100%;
@@ -2786,7 +2786,7 @@ img {max-width: 100%;}
 			}
 
 			.tiles article:hover:before {
-			/*	opacity: 0.5;*/
+				opacity: 0.5;
 			}
 
 			.tiles article.is-transitioning {
