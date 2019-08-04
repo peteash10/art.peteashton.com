@@ -2,7 +2,7 @@
 layout: post
 title: Smiling in a Room
 description: Alvin Lucier meets FaceApp
-permalink: /echo_edit/
+permalink: /smiling-room/
 image: /images/smiling-room_t.jpg
 
 ---
