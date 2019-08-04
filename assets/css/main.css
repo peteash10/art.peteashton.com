@@ -1854,7 +1854,7 @@
 		/*	letter-spacing: 0.25em; */
 			margin-bottom: 0;
 		/*	text-transform: uppercase; */
-			text-shadow: #333 1px 0 10px;
+			text-shadow: 0 10px 1em black, 0 -10px 1em black;
 		}
 
 		body.is-ie header.major > :first-child:after {
