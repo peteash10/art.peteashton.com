@@ -3,7 +3,7 @@ layout: post
 title: Smiling in a Room
 description: Alvin Lucier meets FaceApp
 permalink: /smiling-room/
-image: /images/smiling-room_t.jpg
+image: /assets/images/smiling-room_t.jpg
 
 ---
 
