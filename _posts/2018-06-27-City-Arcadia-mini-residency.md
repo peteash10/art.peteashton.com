@@ -6,7 +6,7 @@ permalink: /arcadia-residency/
 image: /assets/images/arcadia_t.jpg
 ---
 
-The [Coventry Artspace](https://coventry-artspace.co.uk) has a unit in the soon-to-be-demolished City Arcadia shopping centre which member of Black Hole Club were invited to use for three days to mess around with audio/visual technology and see where it took them. 
+The [Coventry Artspace](https://coventry-artspace.co.uk) has a unit in the soon-to-be-demolished City Arcadia shopping centre which members of [Black Hole Club](http://www.blackholeclub.com) were invited to use for three days to mess around with audio/visual technology and see where it took them. 
 
 I decided to use this opportunity to do an audit of all the random cameras, sensors and computers I'd gathered over my [BOM Fellowship](http://art.peteashton.com/bom-fellowship/) and related projects like Speculative Cameras, to see if I was still interested in any of it. 
 
