@@ -1854,6 +1854,7 @@
 		/*	letter-spacing: 0.25em; */
 			margin-bottom: 0;
 		/*	text-transform: uppercase; */
+			text-shadow: #333 1px 0 10px;
 		}
 
 		body.is-ie header.major > :first-child:after {
