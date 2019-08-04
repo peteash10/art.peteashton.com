@@ -26,13 +26,13 @@ At Nunnery Wood High School I worked with students who were either doing photogr
 
 The artwork was created by merging each student's (or pair of students') photos on top of a single photograph from Kenya and then montaging them into a stained-glass window effect.
 
-![](http://art.peteashton.com/assets/images/rotw2019_nunnery.jpg)
+![](http://art.peteashton.com/assets/images/rotw2019-nunnery.jpg)
 
-## Tudor Grange
+## Tudor Grange
 
 At Tudor Grange School I was working with students who were at risk of exclusion which gave a very different dynamic to Nunnery Wood. I lowered the expectations a bit and concentrated mostly on making and decorating the cameras and looking for patterns that they'd found in the teacher's photos. 
 
 Because the camera obscuras had been central to the workshop I build the final artwork around them, as a frame for merges of their images as integrating photos of their decorated cameras. I also included some photos of the kids looking through them. 
 
-![](http://art.peteashton.com/assets/images/rotw2019_tudor.jpg)
+![](http://art.peteashton.com/assets/images/rotw2019-tudor.jpg)
 
