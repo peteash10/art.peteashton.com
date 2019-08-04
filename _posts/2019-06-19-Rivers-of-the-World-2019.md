@@ -3,7 +3,7 @@ layout: post
 title: Rivers of the World 2019
 description: Thames Festival / British Council scheme twinning schools around the world using local rivers.
 permalink: /rotw-2019/
-image: /assets/images/rotw_2019_tbw.jpg
+image: /assets/images/rotw_2019_t.jpg
 duration: 5 months
 ---
 
