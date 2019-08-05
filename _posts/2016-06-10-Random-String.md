@@ -6,7 +6,7 @@ permalink: /random-string-2016/
 image: /assets/images/randomstring2016_talk_t.jpg
 ---
 
-<iframe src="https://player.vimeo.com/video/352074304" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/352074304" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Sometimes you want to give a talk on a subject but you can't quite structure a talk from the subject in the way you're supposed to, so you just give an unstructured talk and see how it goes. 
 
