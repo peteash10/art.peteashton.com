@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Experimental Capture workshop for BOM
-description: (copy to come)
+description: Sharing knowledge on weird cameras at Art & Tech Social. 
 permalink: /bom-art-tech-social/
-image: /assets/images/blackbox.png
-# image: /assets/images/workshops-BOMlab_tbw.jpg
+image: /assets/images/workshops-BOMlab_t.jpg
 ---
 
 ![](http://art.peteashton.com/assets/images/workshops_BOM.jpg)
