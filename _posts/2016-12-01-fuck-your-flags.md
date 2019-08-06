@@ -4,6 +4,7 @@ title: Fuck Your Flags
 description: Pixel-sorting the nations of the world into irrelevance.
 permalink: /fuck-your-flags/
 image: /assets/images/fyf_t.jpg
+duration: online
 ---
 
 <iframe src="https://player.vimeo.com/video/193939679" width="640" height="359" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -4,7 +4,7 @@ title: Smiling in a Room
 description: Alvin Lucier meets FaceApp
 permalink: /smiling-room/
 image: /assets/images/smiling-room_t.jpg
-
+duration: online
 ---
 
 <iframe src="https://player.vimeo.com/video/221287126" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

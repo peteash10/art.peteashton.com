@@ -4,7 +4,7 @@ title: Bham Obscura - Second Camera
 description: A crowdfunded camera obscura for Birmingham. 
 permalink: /bhamobscura-2/
 image: /assets/images/BCO2_RachelGillies_2015-Aug-29_t.jpg
-duration: 1 year 7 months
+duration: Ongoing
 ---
 
 ![](http://art.peteashton.com/assets/images/bco_cocomad2015.jpg)
