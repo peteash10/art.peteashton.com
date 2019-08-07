@@ -9,7 +9,7 @@ duration: 1 week
 
 ![](/assets/images/golan-expcap-ir.jpg)
 
-I'd been following the work of [Golan Levin](http://www.flong.com) for a while and as part of my research for the Speculative Cameras project I decided to attend his Experimental Capture summer school in 2016. Based on [his course](https://github.com/golanlevin/ExperimentalCapture) at Carnegie Melon's [Studio for Creative Inquiry](http://studioforcreativeinquiry.org) it promised access to "capture devices" that went beyond cameras with a world-class digital artist as our guide.
+I'd been following the work of [Golan Levin](http://www.flong.com) for a while and as part of my research for the Speculative Cameras project I decided to attend his [Experimental Capture summer school](http://golancourses.net/capture2016/) in 2016. Based on [his course](https://github.com/golanlevin/ExperimentalCapture) at Carnegie Melon's [Studio for Creative Inquiry](http://studioforcreativeinquiry.org) it promised access to "capture devices" that went beyond cameras with a world-class digital artist as our guide.
 
 The week-long course took place at [Anderson Ranch](https://www.andersonranch.org) in the Colorado mountains, which made it a bit of an ask to attend, but I received a scholarship from them to cover my fees and a £200 towards my flight from Birmingham Open Media (in return for [sharing the knowledge](http://art.peteashton.com/bom-art-tech-social/) upon my return), which made it do-able.
 
