@@ -26,27 +26,37 @@ Golan gave short lectures on the artistic application of these tools, both in an
 
 We had an opportunity to play with the tools as part of our practice and concluded the week presenting a new artwork to the class.
 
-My final piece was a LiDAR musical instrument.
+My final piece was a LiDAR musical instrument, capturing movement in the room and sending it to a PureData synth programme via OSC.
 
-<iframe src="https://player.vimeo.com/video/352529525" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352529525" width="640" height="359" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/352529238" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/352529238" width="640" height="359" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Here are some videos and pictures I made. None of these are "great" - they represent the start of exploration. 
 
-<iframe src="https://player.vimeo.com/video/175651067" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### Multi-Spectral Imaging
 
-<iframe src="https://player.vimeo.com/video/352529634" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/175651067" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/352528127" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352528127" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/352528033" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352528033" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/352527398" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352527398" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/352526338" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+![](/assets/images/exp-cap-ir-1.gif)
 
-<iframe src="https://player.vimeo.com/video/352526329" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+![](/assets/images/exp-cap-ir-2.gif)
 
-<iframe src="https://player.vimeo.com/video/352526324" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 360 Video
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352529634" width="640" height="320" frameborder="0" allowfullscreen></iframe>
+
+### High Speed Videography
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352526338" width="640" height="533" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352526329" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/352526324" width="640" height="450" frameborder="0" allowfullscreen></iframe>
 
