@@ -26,15 +26,18 @@ Golan gave short lectures on the artistic application of these tools, both in an
 
 We had an opportunity to play with the tools as part of our practice and concluded the week presenting a new artwork to the class.
 
+### Gesture capture & OSC
+
 My final piece was a LiDAR musical instrument, capturing movement in the room and sending it to a PureData synth programme via OSC.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/352529525" width="640" height="359" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/352529238" width="640" height="359" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Here are some videos and pictures I made. None of these are "great" - they represent the start of exploration. 
 
 ### Multi-Spectral Imaging
+
+Capturing infra-red and ultraviolet light
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/175651067" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
