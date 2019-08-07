@@ -3,7 +3,8 @@ layout: post
 title: Golan Levin's Experimental Capture Workshop
 description: A intensive summer school in Aspen.
 permalink: /levin-exp-cap/
-/assets/images/expcap_ir_t.jpg
+image: /assets/images/expcap_ir_t.jpg
+duration: 1 week
 ---
 
 I'd been following the work of [Golan Levin](http://www.flong.com) for a while and as part of my research for the Speculative Cameras project I decided to attend his Experimental Capture summer school in 2016. Based on [his course](https://github.com/golanlevin/ExperimentalCapture) at Carnegie Melon's [Studio for Creative Inquiry](http://studioforcreativeinquiry.org) it promised access to "capture devices" that went beyond cameras with a world-class digital artist as our guide.
@@ -29,7 +30,7 @@ My final piece was a LiDAR musical instrument.
 
 <iframe src="https://player.vimeo.com/video/352529238" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Here are some videos and pictures I made.
+Here are some videos and pictures I made. None of these are "great" - they represent the start of exploration. 
 
 <iframe src="https://player.vimeo.com/video/175651067" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
