@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Golan Levin's Experimental Capture Workshop
-description: A intensive summer school in Aspen.
+description: An intensive summer school in Aspen.
 permalink: /levin-exp-cap/
 image: /assets/images/expcap_ir_t.jpg
 duration: 1 week
