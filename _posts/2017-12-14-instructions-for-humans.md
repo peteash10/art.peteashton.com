@@ -3,7 +3,7 @@ layout: post
 title: Instructions for Humans
 description: A Cargo Cult for Artificial Intelligence - artworks exploring human interactions with machines.
 permalink: /instructions-for-humans/
-image: http://instructionsforhumans.com/images/puerto-rico-celltower.jpg
+image: http://art.peteashton.com/assets/images/ifh/puerto-rico-celltower_t.jpg
 categories:
   - Machine Learning
   - Gallery
@@ -11,7 +11,7 @@ categories:
 duration: 3 months
 ---
 
-![](http://instructionsforhumans.com/images/puerto-rico-celltower.jpg)
+![](http://art.peteashton.com/assets/images/ifh/puerto-rico-celltower.jpg)
 
 ## A Cargo Cult for Artificial Intelligence
 

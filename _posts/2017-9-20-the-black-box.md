@@ -3,7 +3,7 @@ layout: post
 title: The Black Box
 description: A metaphor for opaque systems.
 permalink: /black-box/
-image: http://instructionsforhumans.com/images/blackbox1.jpg
+image: http://art.peteashton.com/assets/images/ifh/blackbox1-t.jpg
 categories:
   - Sculpture
   - Gallery
@@ -18,6 +18,6 @@ The Black Box references [black box systems](https://en.wikipedia.org/wiki/Black
 
 Part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition at Birmingham Open Media, September - December 2017. 
 
-![](http://instructionsforhumans.com/images/blackbox1.jpg)
+![](http://art.peteashton.com/assets/images/ifh/blackbox1.jpg)
 
-![](http://instructionsforhumans.com/images/blackbox2.gif)
+![](http://art.peteashton.com/assets/images/ifh/blackbox2.gif)

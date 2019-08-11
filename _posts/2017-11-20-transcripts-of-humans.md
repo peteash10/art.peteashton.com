@@ -3,7 +3,7 @@ layout: post
 title: Transcripts of Humans
 description: Three months of talking to visitors in a gallery, transcribed for the gallery wall. 
 permalink: /transcripts-of-humans/
-image: http://instructionsforhumans.com/images/transcripts4.jpg
+image: http://art.peteashton.com/assets/images/ifh/transcripts4_t.jpg
 categories:
   - Gallery
   - Instructions for Humans
@@ -17,10 +17,10 @@ The artist presents the trascripts on the walls of the gallery and has conversat
 [The transcripts are archived online](http://instructionsforhumans.com/transcripts/).
 
 
-![](http://instructionsforhumans.com/images/transcripts4.jpg)
+![](http://art.peteashton.com/assets/images/ifh/transcripts4.jpg)
 
-![](http://instructionsforhumans.com/images/transcripts1.jpg)
+![](http://art.peteashton.com/assets/images/ifh/transcripts1.jpg)
 
-![](http://instructionsforhumans.com/images/transcripts2.jpg)
+![](http://art.peteashton.com/assets/images/ifh/transcripts2.jpg)
 
 ![](http://art.peteashton.com/assets/images/ifh-audo-surv-notice.jpg)
