@@ -3,7 +3,7 @@ layout: post
 title: The Black Box
 description: A metaphor for opaque systems.
 permalink: /black-box/
-image: http://art.peteashton.com/assets/images/ifh/blackbox1-t.jpg
+image: http://art.peteashton.com/assets/images/ifh/blackbox1_t.jpg
 categories:
   - Sculpture
   - Gallery
