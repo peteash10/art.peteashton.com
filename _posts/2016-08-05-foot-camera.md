@@ -15,4 +15,4 @@ The walk was Laura Oldfield Ford's group walk for her residency at Grand Union, 
 
 ![](/assets/images/footcamera1.jpg)
 
-![](/assets/images/footcamera1.jpg)
+![](/assets/images/footcamera2.jpg)
