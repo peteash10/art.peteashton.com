@@ -15,7 +15,7 @@ Returning to the classroom we would then discuss how we could apply this way of 
 
 Time moved on, staffing changed, and the Masterclasses dried up, but I have fond memories of them and would love to work with arts organisations to use photography to get their audiences to creatively engage with the work on show in new ways. Hit me up if you're interested and have a budget. 
 
-### Abstract Photography Workshop 
+### Abstract Photography Workshop 
 (May 22, 2013)  
 Part of a two day series of workshops undertaken by students from Birmingham Ormiston Academy.
 
@@ -40,7 +40,7 @@ Simon Taylor and showed our work to staff at the Ironbridge Gorge chain of museu
 
 ![](/assets/images/ikon/ironbridge.jpg)
 
-### St Basils Art Award
+### St Basils Art Award
 (Sep 12, 2014)  
 A collaboration between Ikon and [St Basils](https://stbasils.org.uk), a charity combating youth homelessness, using the Art Award scheme to develop skills and confidence. Workshops with a range of artists including myself resulted in an [exhibition](https://www.ikon-gallery.org/event/st-basils-showcase/) at Ikon. 
 
