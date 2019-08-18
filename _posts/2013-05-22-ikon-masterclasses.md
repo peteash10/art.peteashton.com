@@ -13,7 +13,7 @@ The format was fairly simple. After an introduction from myself to around 10 par
 
 Returning to the classroom we would then discuss how we could apply this way of thinking to our photography. In some cases, such as AK Dolven, we twisted our ideas of "good" photography, defocussing and breaking the rules to achieve new abstractions. In others, such as Hurvin Anderson's paintings, we absorbed his subject matter to focus our point of view of the world. 
 
-Time moved on, staffing changed, and the Masterclasses dried up, but I have fond memories of them and would love to work with arts organisations to use photography to get their audiences to creatively engage with the work on show in new ways. Hit me up if you're interested and have a budget. 
+Time moved on, staffing changed, and the Masterclasses dried up, but I have fond memories of them and would love to work again with arts organisations to use photography to get their audiences to creatively engage with their exhibits. Hit me up if you're interested and have a budget. 
 
 ### Abstract Photography Workshop 
 May 22, 2013  
