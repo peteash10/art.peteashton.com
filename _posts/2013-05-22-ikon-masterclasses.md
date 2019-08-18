@@ -22,7 +22,7 @@ Part of a two day series of workshops undertaken by students from Birmingham Orm
 ![](/assets/images/ikon/abstract.jpg)
 
 ### Photography Summer School: Shimabuku  
-Aug 17, 2013 [Event page](https://www.ikon-gallery.org/event/photography-summer-school/)*  
+Aug 17, 2013 - *[Event page](https://www.ikon-gallery.org/event/photography-summer-school/)*  
 The first masterclass I ran, responding to artist [Shimabuku's playful work](https://www.ikon-gallery.org/event/something-that-floats-something-that-sinks/). 
 
 ![](/assets/images/ikon/shimabuku.jpg)
@@ -46,7 +46,7 @@ A collaboration between Ikon and [St Basils](https://stbasils.org.uk), a charity
 ![](/assets/images/ikon/basils.jpg)
 
 ### Ikon Masterclass: AK Dolven 
-Mar 21, 2015 *[Event Page](https://www.ikon-gallery.org/event/photography-masterclass/)*  
+Mar 21, 2015 - *[Event Page](https://www.ikon-gallery.org/event/photography-masterclass/)*  
 Responding to the exhibition by [AK Dolven](https://www.ikon-gallery.org/event/8095/) participants latched on to her deliberate misuse of cameras to defocus and abstract her films and images, photographing through their plastic lunch packaging.
 
 ![](/assets/images/ikon/dolven.jpg)
