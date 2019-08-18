@@ -27,13 +27,13 @@ The first masterclass I ran, responding to artist [Shimabuku's playful work](htt
 
 ![](/assets/images/ikon/shimabuku.jpg)
 
-### Ikon Masterclass: Hurvin Anderson 
+### Masterclass: Hurvin Anderson 
 Oct 5, 2013  
 Run for the Artists Teacher Scheme, which helps art teachers get back in touch with their creativity, this responded to [Anderson's paintings](https://www.ikon-gallery.org/event/hurvin-anderson-reporting-back/) of landscapes blocked by security apparatus and fencing. 
 
 ![](/assets/images/ikon/anderson.jpg)
 
-### Ikon Masterclass: Ironbridge
+### Masterclass: Ironbridge
 Oct 14, 2013  
 Simon Taylor and showed our work to staff at the Ironbridge Gorge chain of museums.
 
@@ -45,13 +45,13 @@ A collaboration between Ikon and [St Basils](https://stbasils.org.uk), a charity
 
 ![](/assets/images/ikon/basils.jpg)
 
-### Ikon Masterclass: AK Dolven 
+### Masterclass: AK Dolven 
 Mar 21, 2015 - *[Event Page](https://www.ikon-gallery.org/event/photography-masterclass/)*  
 Responding to the exhibition by [AK Dolven](https://www.ikon-gallery.org/event/8095/) participants latched on to her deliberate misuse of cameras to defocus and abstract her films and images, photographing through their plastic lunch packaging.
 
 ![](/assets/images/ikon/dolven.jpg)
 
-### Ikon Masterclass: Fiona Banner 
+### Masterclass: Fiona Banner 
 Nov 7, 2015   
 Run for the Artists Teacher Scheme, responding to the exhibition by [Fiona Banner](http://www.ikon-gallery.org/event/fiona-banner/), participants decided to look for language written on the cityscape. 
 
