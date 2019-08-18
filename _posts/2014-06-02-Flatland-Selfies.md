@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flatland Selfies
-description: What do self-portraits look like in one dimension
+description: What do self-portraits look like in one dimension?
 permalink: /flatland-selfies/
 image: /assets/images/flatland-selfies_t.jpg
 duration: online
