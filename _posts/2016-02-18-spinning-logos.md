@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinning Logos
-description: Destroying corporate sigils using JPEG compression
+description: Destroying corporate sigils using JPEG compression.
 permalink: /spinning-logos/
 image: /assets/images/spinning-logos.jpg
 duration: online
