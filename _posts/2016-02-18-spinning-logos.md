@@ -18,3 +18,5 @@ I submitted the Käpt'n Iglo logo rotating into digital mush to their platform a
 ![](/assets/images/spinning-logos-2.jpg)
 
 ![](/assets/images/spinning-logos-3.jpg)
+
+It would be remiss of me not to mention m'learned friend [Antonio Roberts](https://www.hellocatfood.com/)' project [Copyright Atrophy](https://copyrightatrophy.tumblr.com) which was doubtless an inspiration for this piece
