@@ -15,4 +15,6 @@ I also produced a cropped version so you can see the degradation close up.
 
 <iframe src="https://player.vimeo.com/video/115934854" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+----
+
 ![](/assets/images/supper-room-strip.jpg)
