@@ -20,3 +20,5 @@ The following videos are three different attempts to show this.
 <iframe src="https://player.vimeo.com/video/97180955" width="640" height="320" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/97184995" width="640" height="312" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+This led directly to [Spectral Songs of the Slitscanned Selfies](https://art.peteashton.com/spectral-slitscanned-selfies/).
