@@ -32,4 +32,4 @@ As someone who knows Watchmen very well, I find this new arrangement fascinating
 
 ![](/assets/images/watchmen-by-brightness-6.jpg)
 
-See also [the Watchmen panels sorted by the t-SNE algorithm](https://www.flickr.com/photos/peteashton/48561453406/) ([more info](https://art.peteashton.com/tsne/)) which looks for similarities. I really should make a readable version of this too. 
+See also [the Watchmen panels sorted by the t-SNE algorithm](https://www.flickr.com/photos/peteashton/48561453406/) ([more info](https://art.peteashton.com/tsne/)) which looks for visual similarities. I really should make a readable version of this too. 
