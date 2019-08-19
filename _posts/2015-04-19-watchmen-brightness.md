@@ -14,7 +14,7 @@ The comic book [Watchmen](https://en.wikipedia.org/wiki/Watchmen), by Alan Moore
 
 In April 2015 I was at a talk by [Nicolas Nova](https://www.nicolasnova.net) from the [New Future Lab](http://nearfuturelaboratory.com) where he talked about many things including, according to my notes, "syncing up photos based on metadata, not just location but time of day, etc." The idea of juxtaposing images based on differing criteria caught my attention and made me think of comics, the ultimate in juxtaposed narrative, and formalist games like [Five Card Nancy](http://www.scottmccloud.com/4-inventions/nancy/index.html).
 
-So I got a digital of Watchmen and chopped each page into its constituent panels. I then ran some code which sorted them by their brightness and produced a web page which lays out the panels in order. 
+So I got a digital copy of Watchmen and chopped each page into its constituent panels. I then ran some code which sorted them by their brightness and produced a web page which lays out the panels in order. 
 
 [**You can view the web page here**](https://art.peteashton.com/works/watchmen/). Let it load (it's a good 60 MB) and it should format into a tight grid. 
 
