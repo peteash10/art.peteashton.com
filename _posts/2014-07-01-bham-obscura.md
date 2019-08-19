@@ -11,7 +11,7 @@ duration: ongoing
 
 [Birmingham Obscura](http://bhamobscura.com), or Birmingham Camera Obscura, was started by [Jenny Duffin](http://www.jennyduffin.com/) and myself in 2014 when we decided to build a camera obscura and take it around for people to experience. It has manifested in a number of projects, mainly based around the [professional-grade camera](https://art.peteashton.com/bhamobscura-2/) we crowdfunded to build. 
 
-The project has formally been on hiatus since 2017 as work and other projects took up our time, but I continued to do occasional obscura work and am keen to bring it back in some form. If you are interested in joining the Birmingham Obscura project, please get in touch! 
+The project has formally been on hiatus since 2017 as work and other projects took up our time, but I continued to do occasional obscura work (I try and take the main camera out in public at least once a year) and am keen to bring it back if a sustainable plan can be hatched. If you are interested in joining the Birmingham Obscura project, please get in touch! 
 
 The [bhamobscura.com](http://bhamobscura.com) website archives our activities from 2014-17 and will at some point be revised. There are also [many photos on Flickr](https://www.flickr.com/photos/bhamobscura/sets/).
 
