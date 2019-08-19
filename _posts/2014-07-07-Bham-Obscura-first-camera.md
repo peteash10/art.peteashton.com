@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bham Obscura - First Camera
+title: Prototype Birmingham Obscura
 description: We knew nothing about building a camera obscura but we did it anyway. 
 permalink: /bhamobscura-1/
 image: /assets/images/BCO1_t.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bham Obscura - Second Camera
+title: The Birmingham Camera Obscura
 description: A crowdfunded camera obscura for Birmingham. 
 permalink: /bhamobscura-2/
 image: /assets/images/BCO2_RachelGillies_2015-Aug-29_t.jpg

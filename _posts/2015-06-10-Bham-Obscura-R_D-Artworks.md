@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bham Obscura R&D Artworks
+title: Birmingham Obscura R&D Artworks
 description: Four new artworks by four artists for the camera obscura.
 permalink: /BCO-RandD/
 image: /assets/images/BCO_poster_t.jpg
