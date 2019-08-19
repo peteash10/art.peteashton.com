@@ -4,7 +4,7 @@ title: Birmingham Obscura
 description: An ongoing project to develop and build camera obscuras in Birmingham.
 permalink: /bham-obscura/
 image: /assets/images/bham-obscura_t.jpg
-duration: 
+duration: ongoing
 ---
 
 ![](/assets/images/bham-obscura_logo.jpg)
