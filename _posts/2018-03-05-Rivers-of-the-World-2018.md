@@ -28,7 +28,7 @@ Techniques: photography, mixed-media collage, focus-stacking, auto-fill.
 
 ![](http://art.peteashton.com/assets/images/rotw2018_tenbury.jpg)
 
-## St Egwin's, Evesham
+## St Egwin's, Evesham
 
 Usually a river flows through a town, but Evesham is defined by the physical shape of the river, so the artwork was built around that, creating five collages of the town from above. Each student took as many photos as they could which were randomly collected and digitally combined to produce collage materials. [The collage materials are archived here.](https://www.flickr.com/photos/peteashton/albums/72157694373999381)
 
