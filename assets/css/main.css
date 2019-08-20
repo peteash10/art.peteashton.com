@@ -2774,7 +2774,8 @@ img {max-width: 100%;}
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				/*background-color: rgba(36, 41, 67, 0.25);*/
+				background-color: rgba(36, 41, 67, 0);
 				content: '';
 				display: block;
 				height: 100%;
