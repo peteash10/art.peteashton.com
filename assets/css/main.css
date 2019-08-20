@@ -2709,7 +2709,7 @@ img {max-width: 100%;}
 			-ms-transition: -ms-transform 0.25s ease, opacity 0.25s ease, -ms-filter 1s ease, -webkit-filter 1s ease;
 			transition: transform 0.25s ease, opacity 0.25s ease, filter 1s ease, -webkit-filter 1s ease;
 			/* padding: 4em 4em 2em 4em ; */
-			padding: 4em 3em 2em 3em ;
+			padding: 9em 1em 1em 1em ;
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -2780,7 +2780,7 @@ img {max-width: 100%;}
 
 			.tiles article:after {
 				/*background-color: rgba(36, 41, 67, 0.25);*/
-				background-color: rgba(36, 41, 67, 0.1);
+				background-color: rgba(36, 41, 67, 0);
 				content: '';
 				display: block;
 				height: 100%;
