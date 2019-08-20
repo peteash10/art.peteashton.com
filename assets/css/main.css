@@ -1845,7 +1845,7 @@
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
-				width: 100%;
+				width: 80%;
 			}
 
 		header.major > p {
@@ -2734,6 +2734,11 @@ img {max-width: 100%;}
 			.tiles article header {
 				position: relative;
 				z-index: 3;
+			}
+			
+			.tiles article header.major
+			{
+				background-color: rgba(36, 41, 67, 0.25)
 			}
 
 			.tiles article h3 {
