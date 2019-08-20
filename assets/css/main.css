@@ -2738,7 +2738,8 @@ img {max-width: 100%;}
 			
 			.tiles article header.major
 			{
-				background-color: rgba(0, 0, 0, 0.05)
+				background-color: rgba(0, 0, 0, 0.5);
+				padding: 0.3em 0.5em;
 			}
 
 			.tiles article h3 {
