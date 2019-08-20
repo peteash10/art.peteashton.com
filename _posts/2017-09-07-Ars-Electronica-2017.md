@@ -2,7 +2,7 @@
 layout: post
 title: Ars Electronic 2017
 description: I visited the international media festival on a bursary and took part in a game as a media artist.
-permalink: /ars2017
+permalink: /ars2017/
 image: /assets/images/ars2017.jpg
 ---
 

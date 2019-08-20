@@ -2,7 +2,7 @@
 layout: post
 title: The Delightful Impossibility of Cityscapes
 description: A lecture to the Kings Norton Photography Society on how to document a city in curious ways. 
-permalink: /impossibility_of_cityscapes
+permalink: /impossibility_of_cityscapes/
 image: /assets/images/cityscapes.jpg
 ---
 

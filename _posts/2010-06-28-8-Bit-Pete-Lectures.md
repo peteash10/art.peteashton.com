@@ -2,7 +2,7 @@
 layout: post
 title: The 8-Bit Pete Lectures
 description: A talk given at a videogame movie night run by Flatpack Film Festival
-permalink: /8bit-pete-lecture
+permalink: /8bit-pete-lectures/
 image: /assets/images/8bitpetelectures.jpg
 ---
 

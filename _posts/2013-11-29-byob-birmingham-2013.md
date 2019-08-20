@@ -2,7 +2,7 @@
 layout: post
 title: Bring Your Own Beamer
 description: A group show where everyone had to bring their own projector.
-permalink: /byob2013
+permalink: /byob2013/
 image: /assets/images/byob2013logo.jpg
 ---
 
