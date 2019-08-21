@@ -3358,7 +3358,7 @@ img {max-width: 100%;}
 				text-indent: 5em;
 				white-space: nowrap;
 				width: 5em;
-			}
+			} 
 
 				#header nav a[href="#menu"]:before, #header nav a[href="#menu"]:after {
 					right: 0;
